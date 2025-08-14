@@ -8,9 +8,9 @@ tags:
   - anticodex
 categories: 
 dateCreated: 2025-08-12T15:31:04+08:00
-dateModified: 2025-08-14T18:46:49+08:00
+dateModified: 2025-08-14T18:56:54+08:00
 ---
-The Anticodex contains both *inherited* thoughts (drawn from any source) and *novel thoughts*, which may emerge either from the collision of pre-existing thoughts or from thoughts that suddenly appear in my mind.
+The [[What the Anticodex is|Anticodex]] contains both *inherited* thoughts (drawn from any source) and *novel thoughts*, which may emerge either from the collision of pre-existing thoughts or from thoughts that suddenly appear in my mind.
 
 As [[The system behind the Anticodex|the system is used to seek the most complete form of TRUTH]], its outputs are subject to [[On the creation of new coherent wholes#^sxzhr|gradual transformation overtime]] through the introduction of new content into already existing entries, whether in the form of support or contradiction, recursively benefitting each other.
 

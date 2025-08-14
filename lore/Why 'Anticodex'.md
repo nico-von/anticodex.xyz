@@ -7,8 +7,8 @@ tags:
   - anticodex
 categories: 
 dateCreated: 2025-08-12T14:43:39+08:00
-dateModified: 2025-08-14T18:48:30+08:00
+dateModified: 2025-08-14T18:56:46+08:00
 ---
-Unlike a codex, this repository is not bound together in a specific, sequential order of content. It is, rather, a product of disorder—an *Anti* codex. Its writing is scattered across time and order, subject, and context, yet remain bound by links, visible through [[The Paths|paths]]. A given [[The Shards|shard]] may follow another written long before, or leap to an entirely different subject or context. 
+Unlike a codex, [this repository](https://github.com/nico-von/anticodex.xyz) is not bound together in a specific, sequential order of content. It is, rather, a product of disorder—an *Anti* codex. Its writing is scattered across time and order, subject, and context, yet remain bound by links, visible through [[The Paths|paths]]. A given [[The Shards|shard]] may follow another written long before, or leap to an entirely different subject or context. 
 
 I have thought of several possible names for this repository, but I found **Anticodex** to represent it the best.
