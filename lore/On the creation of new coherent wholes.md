@@ -1,7 +1,7 @@
 ---
 title: On the creation of new coherent wholes
 dateCreated: 2025-08-14T14:50:03+08:00
-dateModified: 2025-08-14T15:22:05+08:00
+dateModified: 2025-08-14T18:41:56+08:00
 uid: le2508141450341000
 type: lore-entry
 summary: 
@@ -12,9 +12,12 @@ tags:
   - sources
 categories:
 ---
-Sources, broken into many parts, are collected into the Anticodex as an **incoherent mass**. Yet a shard, when joined to and influenced by another, acquires the power to form entirely **new, coherent wholes**.
+[[The Sources|Sources]], broken into many parts(called [[The Shards|shards]]), are first collected into the Anticodex as an **incoherent mass**. Yet a shard, when joined with and influenced by another, gains the power to form entirely **new, coherent wholes**.
 
 ## Shards and the Paths
-Shards require other shards to carry forward the development that allows **TRUTH** to reach them and prevail. Such a perfect state, wherein a development of thought within the system attains absolute TRUTH, may seem impossible to reach, yet striving toward it fuels the charge that draws it ever nearer to this elusive and perhaps unattainable ideal. 
+Shards need other shards to carry forward the development that allows TRUTH to reach them and prevail. 
 
-This progression unfolds as shards cast *new light* upon existing shards, refining them, altering their meaning, or declaring them false altogether. A new shard may thus **contradict**, **complement**, or **enlighten** another shard. This influence is made visible through [[The Paths|paths]]. 
+This progression unfolds as shards cast *new light* upon existing shards, refining them, altering their meaning, or declaring them false altogether. A new shard may thus **contradict**, **complement**, or **enlighten** another shard. This influence is made visible through [[The Paths|paths]]. ^sxzhr
+
+## Towards the most complete form of TRUTH ^-nco8
+By striving towards a perfect state(wherein it attains the most complete form of TRUTH), I shall at least be able to bring it ever closer to this form, despite its being an almost impossible quest.
