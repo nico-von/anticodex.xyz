@@ -1,0 +1,5 @@
+.*
+!.gitignore
+*excerptindex*.md
+*ignoreprivate*.md
+*ignorecopyright*.md
