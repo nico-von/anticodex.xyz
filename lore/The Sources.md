@@ -7,6 +7,8 @@ tags:
   - sources
 categories: 
 dateCreated: 2025-08-14T14:44:43+08:00
-dateModified: 2025-08-14T15:22:12+08:00
+dateModified: 2025-08-15T10:34:09+08:00
 ---
 Sources are coherent wholes from which shards are taken. They are similar to *literature notes* in the conventional Zettelkasten method. Collections of selected quotations reside within them as well; however, only works in the **public domain** are displayed publicly.
+
+Sources can be anything from a Reddit comment to a dissertation.
