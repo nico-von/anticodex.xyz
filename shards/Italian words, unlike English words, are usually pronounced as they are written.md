@@ -7,7 +7,7 @@ categories:
   - language
   - pronunciation
 dateCreated: 2025-08-19T01:02:55+08:00
-dateModified: 2025-08-19T01:35:39+08:00
+dateModified: 2025-08-19T01:36:43+08:00
 ---
 Italian words, unlike English words, are usually pronounced as they are written.
 
