@@ -4,22 +4,21 @@ title: zinsserWritingLearn1989
 type: source
 categories: [writing,learning,] 
 dateCreated: 2025-08-18T15:08:37+08:00
-dateModified: 2025-08-18T15:09:45+08:00
+dateModified: 2025-08-18T23:24:38+08:00
 ---
 
-## Citekey
-> Zinsser, William, and William Zinsser. 1989. _Writing to Learn_. Harper Collins.
+## Bibliography
+Zinsser, William. 1989. _Writing to Learn_. Harper Collins.
 
 ## Details
-> **Author**: Zinsser, William  
-> **Author**: Zinsser, William  
-> **Title**: Writing to learn
-> **Year**: 1989
-> **Citekey**: zinsserWritingLearn1989
-> **itemType**: book  
-> **Publisher**: Harper Collins  
-> **Location**: New York  
-> **ISBN**: 978-0-06-272040-5    
+**Author**: Zinsser, William  
+**Title**: Writing to learn
+**Year**: 1989
+**Citekey**: zinsserWritingLearn1989
+**itemType**: book  
+**Publisher**: Harper Collins  
+**Location**: New York  
+**ISBN**: 978-0-06-272040-5    
 
 ## Abstract
 It shows that learning and writing and thinking are the same process (Preface), and that to learn to write, one must imitate the writing one wants to do (Ch.2).
