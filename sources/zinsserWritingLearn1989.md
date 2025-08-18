@@ -4,7 +4,7 @@ title: zinsserWritingLearn1989
 type: source
 categories: [writing,learning,] 
 dateCreated: 2025-08-18T15:08:37+08:00
-dateModified: 2025-08-18T23:24:38+08:00
+dateModified: 2025-08-19T00:16:23+08:00
 ---
 
 ## Bibliography
@@ -12,10 +12,10 @@ Zinsser, William. 1989. _Writing to Learn_. Harper Collins.
 
 ## Details
 **Author**: Zinsser, William  
-**Title**: Writing to learn
-**Year**: 1989
-**Citekey**: zinsserWritingLearn1989
-**itemType**: book  
+**Title**: Writing to learn  
+**Year**: 1989  
+**Citekey**: zinsserWritingLearn1989    
+**Item Type**: book  
 **Publisher**: Harper Collins  
 **Location**: New York  
 **ISBN**: 978-0-06-272040-5    
