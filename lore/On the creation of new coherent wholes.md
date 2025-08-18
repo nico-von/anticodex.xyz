@@ -19,5 +19,5 @@ Shards need other shards to carry forward the development that allows TRUTH to r
 
 This progression unfolds as shards cast *new light* upon existing shards, refining them, altering their meaning, or declaring them false altogether. A new shard may thus **contradict**, **complement**, or **enlighten** another shard. This influence is made visible through [[The Paths|paths]]. ^sxzhr
 
-## Towards the most complete form of TRUTH ^-nco8
-By striving towards a perfect state(wherein it attains the most complete form of TRUTH), I shall at least be able to bring it ever closer to this form, despite its being an almost impossible quest.
+## Towards the most complete form of TRUTH
+By striving towards a perfect state(wherein it attains the most complete form of TRUTH), I shall at least be able to bring it ever closer to this form, despite its being an almost impossible quest. ^-nco8
