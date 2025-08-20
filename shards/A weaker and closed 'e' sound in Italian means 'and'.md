@@ -4,10 +4,9 @@ title: "A weaker and closed 'e' sound in Italian means 'and'"
 type: shard
 categories:
   - italian
-  - language
   - pronunciation
 dateCreated: 2025-08-19T01:25:04+08:00
-dateModified: 2025-08-19T01:49:00+08:00
+dateModified: 2025-08-19T17:38:43+08:00
 ---
 A weaker and closed 'e' sound in Italian means 'and'.
 
