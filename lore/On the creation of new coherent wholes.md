@@ -1,7 +1,7 @@
 ---
 title: On the creation of new coherent wholes
 dateCreated: 2025-08-14T14:50:03+08:00
-dateModified: 2025-08-18T11:09:17+08:00
+dateModified: 2025-08-20T12:01:52+08:00
 uid: le2508141450341000
 type: lore-entry
 summary: 

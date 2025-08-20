@@ -5,8 +5,9 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-19T01:28:14+08:00
-dateModified: 2025-08-19T17:39:00+08:00
+dateModified: 2025-08-20T12:03:48+08:00
 ---
 [[An open 'e' sound in Italian means 'third person..is'|Italian 'third person…is']] can be negated by prepending 'non'. 
 
+### Excerpt
 ![[eleftheriouIntroductionItalianexcerptindex#^387u7]]
