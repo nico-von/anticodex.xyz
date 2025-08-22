@@ -7,7 +7,7 @@ categories:
   - latin
   - english
 dateCreated: 2025-08-19T00:19:21+08:00
-dateModified: 2025-08-20T12:03:27+08:00
+dateModified: 2025-08-21T14:12:03+08:00
 ---
 English speakers can begin learning Italian by 'exposing' the Latin side of English, using it as an 'entry point' and a 'mental anchor'.
 
@@ -19,3 +19,4 @@ Entry points:
 
 Transformations:
 1. [[Most English words ending in 'al' can be 'transformed' to Italian by simply adding an 'e' to the end]]
+2. [[English '-ly' adjectives need only have '-ly' replaced with '-mente' to transform to Italian]]

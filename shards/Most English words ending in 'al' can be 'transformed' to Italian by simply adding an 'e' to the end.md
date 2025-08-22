@@ -6,9 +6,11 @@ categories:
   - english
   - italian
 dateCreated: 2025-08-19T00:52:36+08:00
-dateModified: 2025-08-20T12:04:00+08:00
+dateModified: 2025-08-21T13:53:12+08:00
 ---
 [[Most English words ending in 'al' are from Latin|Most English words ending in 'al']] can be 'transformed' to Italian by simply adding an 'e' to the end.
 
 ### Excerpt
 ![[eleftheriouIntroductionItalianexcerptindex#^hewfm]]
+
+Most English words ending in 'al' can as well have their '-ly' version transformed into Italian quite easily. [[English '-ly' adjectives need only have '-ly' replaced with '-mente' to transform to Italian]]
