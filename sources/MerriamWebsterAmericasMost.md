@@ -2,7 +2,9 @@
 uid: source4BWENX6KMerriamWebsterAmericasMost
 title: MerriamWebsterAmericasMost
 type: source
-categories: [language,engish,] 
+categories:
+  - language
+  - english
 dateCreated: 2025-08-24T13:42:17+08:00
 dateModified: 2025-08-24T13:42:25+08:00
 ---
