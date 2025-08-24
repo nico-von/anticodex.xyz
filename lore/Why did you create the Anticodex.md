@@ -7,7 +7,7 @@ tags:
   - anticodex
 categories: 
 dateCreated: 2025-08-12T14:52:44+08:00
-dateModified: 2025-08-24T13:47:03+08:00
+dateModified: 2025-08-24T13:48:03+08:00
 ---
 I made the [[What the Anticodex is|Anticodex]] for several reasons.
 

@@ -9,7 +9,7 @@ categories:
 dateCreated: 2025-08-23T18:03:51+08:00
 dateModified: 2025-08-23T18:25:20+08:00
 ---
-And since [['Incredibile', from transforming 'Incredible', means 'Unbelievable' in Latin and Italian]], removing the [['In' is a prefix, like 'un', it negates the word it is attached to|negating 'in']] from 'incredibile' leaves the word 'credibile' which is Latin and Italian for 'believable'. 
+And since [['Incredibile', from the transformation of 'Incredible', means 'Unbelievable' in Latin and Italian]], removing the [['In' is a prefix, like 'un', it negates the word it is attached to|negating 'in']] from 'incredibile' leaves the word 'credibile' which is Latin and Italian for 'believable'. 
 
 ### Excerpt
 ![[eleftheriouIntroductionItalianexcerptindex#^imp84]]

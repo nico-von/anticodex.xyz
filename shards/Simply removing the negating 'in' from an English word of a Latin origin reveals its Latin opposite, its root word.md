@@ -13,4 +13,4 @@ Simply removing the [['In' is a prefix, like 'un', it negates the word it is att
 
 
 An example:
-As [['Incredibile', from transforming 'Incredible', means 'Unbelievable' in Latin and Italian]], [[Removing the negating 'in' from 'incredibile' leaves the word 'credibile' which is Latin and Italian for 'believable']].
+As [['Incredibile', from the transformation of 'Incredible', means 'Unbelievable' in Latin and Italian]], [[Removing the negating 'in' from 'incredibile' leaves the word 'credibile' which is Latin and Italian for 'believable']].

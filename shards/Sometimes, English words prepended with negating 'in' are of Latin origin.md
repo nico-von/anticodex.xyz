@@ -12,6 +12,6 @@ Sometimes English words prepended with [['In' is a prefix, like 'un', it negates
 
 For example: 
 
-The English word [['Incredibile', from transforming 'Incredible', means 'Unbelievable' in Latin and Italian|'incredible' is of Latin origin]].
+The English word [['Incredibile', from the transformation of 'Incredible', means 'Unbelievable' in Latin and Italian|'incredible' is of Latin origin]].
 
 Also, since the negating 'in' has been talked about here, this reminds that [[Simply removing the negating 'in' from an English word of a Latin origin reveals its Latin opposite, its root word]]. 
