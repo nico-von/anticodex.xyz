@@ -6,7 +6,7 @@ categories:
   - italian
   - english
 dateCreated: 2025-08-21T13:52:51+08:00
-dateModified: 2025-08-21T14:10:46+08:00
+dateModified: 2025-08-23T17:45:08+08:00
 ---
 English '-ly' adjectives need only have their '-ly' ending replaced with '-mente' to be transformed into Italian.
 
@@ -14,4 +14,4 @@ English '-ly' adjectives need only have their '-ly' ending replaced with '-mente
 ![[eleftheriouIntroductionItalianexcerptindex#^k-vz8]]
 
 
-[[However, since most Italian words end in Vowels, the 'e' added to transformed 'al' words is lost when adding 'mente'.]]
+[[However, since most Italian words end in Vowels, the 'e' added to transformed words is lost when adding 'mente'.]]

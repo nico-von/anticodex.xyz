@@ -5,8 +5,9 @@ type: shard
 categories:
   - italian
   - pronunciation
+  - english
 dateCreated: 2025-08-19T01:02:55+08:00
-dateModified: 2025-08-20T12:03:52+08:00
+dateModified: 2025-08-22T21:38:20+08:00
 ---
 Italian words, unlike English words, are usually pronounced as they are written.
 

@@ -1,0 +1,17 @@
+---
+uid: shard2508231755593360
+title: "'In' is a prefix, like 'un', it negates the word it is attached to"
+type: shard
+categories:
+  - english
+dateCreated: 2025-08-23T17:55:59+08:00
+dateModified: 2025-08-23T18:24:33+08:00
+---
+'In' is a prefix, like 'un', they negate the word they are attached to
+
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^imp84]]
+
+And since [['Incredibile', from transforming 'Incredible', means 'Unbelievable' in Latin and Italian]], [[Removing the negating 'in' from 'incredibile' leaves the word 'credibile' which is Latin and Italian for 'believable']]. 
+
+This means, [[Simply removing the negating 'in' from an English word of a Latin origin reveals its Latin opposite, its root word]]. 
