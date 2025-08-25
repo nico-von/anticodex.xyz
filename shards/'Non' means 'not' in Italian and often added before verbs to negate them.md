@@ -3,8 +3,9 @@ uid: shard2508252154509790
 title: "'Non' means 'not' in Italian and often added before verbs to negate them"
 type: shard
 categories:
+  - italian
 dateCreated: 2025-08-25T21:54:50+08:00
-dateModified: 2025-08-25T22:01:43+08:00
+dateModified: 2025-08-25T22:53:33+08:00
 ---
 'Non' means 'not' in Italian and often added before verbs to negate them
 

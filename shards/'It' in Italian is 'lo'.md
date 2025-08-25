@@ -5,7 +5,7 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-25T22:03:01+08:00
-dateModified: 2025-08-25T22:51:05+08:00
+dateModified: 2025-08-25T22:51:59+08:00
 ---
 'It' in Italian is 'lo'
 

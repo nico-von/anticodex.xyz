@@ -14,6 +14,6 @@ In Italian, 'Voglio' means 'I want'
 
 Also, [['Voglio' is connected to 'volunteer' in English because 'volunteering' involves 'wanting']]
 
-And as 'Voglio' means 'I want', [[The english pronoun 'I' is signified in a verb like 'Voglio' by the 'o' at its end]]
+And as 'Voglio' means 'I want', [[The English pronoun 'I' is signified in a verb like 'Voglio' by the 'o' at its end]]
 
 In contrast, [['I don't want' can be said in Italian by simply negating 'Voglio' with 'non' added before it]]
