@@ -2,9 +2,10 @@
 uid: sourceHR8D99VBeleftheriouIntroductionItalian
 title: eleftheriouIntroductionItalian
 type: source
-categories: [italian,language,] 
+categories:
+  - italian
 dateCreated: 2025-08-19T00:14:33+08:00
-dateModified: 2025-08-19T00:14:43+08:00
+dateModified: 2025-08-24T23:51:20+08:00
 ---
 
 ## Bibliography
