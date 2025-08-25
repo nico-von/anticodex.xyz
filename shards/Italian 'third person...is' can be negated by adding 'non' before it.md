@@ -1,0 +1,13 @@
+---
+uid: shard2508190128146210
+title: "Italian 'third person...is' can be negated by adding 'non' before it"
+type: shard
+categories:
+  - italian
+dateCreated: 2025-08-19T01:28:14+08:00
+dateModified: 2025-08-25T22:02:38+08:00
+---
+[[An open 'e' sound in Italian means 'third person..is'|Italian 'third person…is']] can be negated by adding [['Non' means 'not' in Italian and often added before verbs to negate them|'non']] before it. 
+
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^387u7]]
