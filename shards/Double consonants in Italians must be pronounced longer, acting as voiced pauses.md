@@ -6,7 +6,7 @@ categories:
   - italian
   - pronunciation
 dateCreated: 2025-08-25T22:33:30+08:00
-dateModified: 2025-08-25T22:35:29+08:00
+dateModified: 2025-08-25T22:43:42+08:00
 ---
 Double consonants in Italians must be pronounced longer, acting as voiced pauses
 
