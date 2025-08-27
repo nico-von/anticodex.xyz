@@ -12,6 +12,6 @@ dateModified: 2025-08-25T22:51:59+08:00
 ### Excerpts
 ![[eleftheriouIntroductionItalianexcerptindex#^vghu1]]
 
-And, [[Unlike 'English', 'it' comes before verbs like in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want']]
+And, [[Unlike 'English', 'it', as a direct object, comes before verbs in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want']]
 
 However, [[Negation comes before 'it' in Italian, instead of saying 'I do not want it', it becomes, 'not it I want' or 'non lo voglio']]
