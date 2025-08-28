@@ -5,7 +5,7 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-28T00:31:49+08:00
-dateModified: 2025-08-28T00:33:25+08:00
+dateModified: 2025-08-28T14:24:11+08:00
 ---
 'Con' means 'with' in Italian
 
