@@ -7,7 +7,7 @@ categories:
   - latin
   - english
 dateCreated: 2025-08-19T00:19:21+08:00
-dateModified: 2025-08-25T22:28:03+08:00
+dateModified: 2025-08-28T00:27:48+08:00
 ---
 English speakers can begin learning Italian by 'exposing' the Latin side of English, using it as an 'entry point' and a 'mental anchor'.
 
