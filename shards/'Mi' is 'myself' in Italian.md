@@ -5,10 +5,10 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-28T00:11:47+08:00
-dateModified: 2025-08-28T00:18:38+08:00
+dateModified: 2025-08-29T15:14:54+08:00
 ---
 'Mi' is 'myself' in Italian. 
 ### Excerpt
 ![[eleftheriouIntroductionItalianexcerptindex#^z1t30]]
 
-Like [['you' in Italian is 'ti'|'ti']] and [['It' in Italian is 'lo'|'lo']], 'mi' could as well be placed [[Direct object pronouns usually come before verbs in Italian|before a verb as a direct pronoun]] or [[If a verb is in its '-are' form, direct object pronouns can be attached to the end of it|attached to a verb if the verb is in its '-are' form]]
+Like [['you' in Italian is 'ti'|'ti']] and [['It' in Italian is 'lo'|'lo']], 'mi' could as well be placed [[Direct object pronouns usually come before verbs that points to them in Italian|before a verb as a direct pronoun]] or [[If a verb is in its '-are' form, direct object pronouns can be attached to the end of it|attached to a verb if the verb is in its '-are' form]]. [[The placement of direct object pronouns are subject to these rules|These placement rules]] apply to it too.
