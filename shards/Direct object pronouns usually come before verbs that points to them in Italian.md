@@ -17,4 +17,4 @@ Indeed, this is [[Direct object pronouns MUST be in front of a verb that points 
 
 However, if there exists such a verb, there is also an [[Placing a direct object pronoun to the end of a verb in its '-are' form is optional if another verb pointing to it exists|option]] to put the [[If a verb is in its '-are' form, direct object pronouns can be attached to the end of it|'direct object' pronoun at the end of it]]
 
-If, however, [[If there is only an '-are' verb form, direct pronouns must be placed at the end|only an '- are' verb form exists, the direct object pronoun can only be placed at the end.]] See [[The placement of direct object pronouns are subject to these rules|these placement rules]] for further clarification.
+If, however, [[If there is only an '-are' verb form, direct pronouns must be placed at the end|only an '- are' verb form exists, the direct object pronoun can only be placed at the end.]] See [[The placement of direct object pronouns in Italian are subject to these rules|these placement rules]] for further clarification.

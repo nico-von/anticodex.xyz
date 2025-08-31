@@ -1,10 +1,11 @@
 ---
 uid: shard2508291455230300
-title: The placement of direct object pronouns are subject to these rules
+title: The placement of direct object pronouns in Italian are subject to these rules
 type: shard
 categories:
+  - italian
 dateCreated: 2025-08-29T14:55:23+08:00
-dateModified: 2025-08-29T16:37:30+08:00
+dateModified: 2025-08-31T13:20:00+08:00
 ---
 The placement of direct object pronouns are subject to these rules:
 1. [[Direct object pronouns MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached]]
