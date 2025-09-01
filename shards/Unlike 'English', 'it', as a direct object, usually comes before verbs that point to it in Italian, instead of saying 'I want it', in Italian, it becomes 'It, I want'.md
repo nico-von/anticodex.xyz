@@ -13,7 +13,7 @@ Unlike 'English', [['It' in Italian is 'lo'|'it']], as a [[What directly receive
 ### Excerpt
 ![[eleftheriouIntroductionItalianexcerptindex#^2wi5c]]
 
-This is [[Direct object pronouns MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached|necessary if no '-are' form of verb exists]]
+This is [[Direct object pronouns in Italian MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached|necessary if no '-are' form of verb exists]]
 
 There is also an [[Placing a direct object pronoun to the end of a verb in its '-are' form is optional if another verb pointing to it exists|option]] to [[If a verb is in its '-are' form, direct object pronouns can be attached to the end of it|put 'lo' at the end of a verb if the verb is in its '-are' form]]
 

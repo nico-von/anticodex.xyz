@@ -11,4 +11,4 @@ dateModified: 2025-08-29T14:00:44+08:00
 ### Excerpt
 ![[eleftheriouIntroductionItalianexcerptindex#^26oiq]]
 
-But if no '-are' verb form exists to attach the direct pronoun to, [[Direct object pronouns MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached|must be placed in front of the verb pointing its action to it.]]
+But if no '-are' verb form exists to attach the direct pronoun to, [[Direct object pronouns in Italian MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached|must be placed in front of the verb pointing its action to it.]]

@@ -5,7 +5,7 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-25T21:32:52+08:00
-dateModified: 2025-08-25T21:51:32+08:00
+dateModified: 2025-08-31T13:39:54+08:00
 ---
 In Italian, 'Voglio' means 'I want'
 
