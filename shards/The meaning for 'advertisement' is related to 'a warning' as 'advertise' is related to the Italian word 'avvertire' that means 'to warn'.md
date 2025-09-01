@@ -5,7 +5,7 @@ type: shard
 categories:
   - etymology
 dateCreated: 2025-09-01T14:42:37+08:00
-dateModified: 2025-09-01T15:25:04+08:00
+dateModified: 2025-09-01T15:25:57+08:00
 ---
 The meaning for 'advertisement' is related to 'a warning' because 'advertise' is related to [['Avvertire' is the Italian word for 'to warn'|'avvertire' that is the Italian word for 'to warn']]
 
