@@ -1,0 +1,20 @@
+---
+uid: shard2509011420284710
+title: Some English words related to the economy are of Latin origin as their partial meanings makes sense in Italian
+type: shard
+categories:
+  - english
+  - etymology
+  - latin
+dateCreated: 2025-09-01T14:20:28+08:00
+dateModified: 2025-09-01T15:25:42+08:00
+---
+Some English words related to the economy are of Latin origin as their [[Knowing the meaning of a part of a word can show clues to what the rest of the word means|parts]] can be transformed into Italian.
+
+Examples would be:
+1. [[The 'mon' in 'money' could be from 'monster' as 'money' is a 'show' of value.]]
+2. [['Mortgage' means 'a death pact'|As 'mortgage' is a 'death pact']], [[The 'mort' in 'mortgage' is related to 'mortal' that is 'mortale' in Italian|the 'mort' in 'mortgage' is related to 'mortal' which is 'mortale' in Italian]]
+3. [[The meaning for 'advertisement' is related to 'a warning' as 'advertise' is related to the Italian word 'avvertire' that means 'to warn']]
+4. [['Debt' is 'obligation' because it is related to the Italian word 'devo' that means 'I must', 'I have to']]
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^e-jf4]]

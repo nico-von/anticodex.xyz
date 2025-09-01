@@ -1,0 +1,15 @@
+---
+uid: shard2509011403159170
+title: "English words like 'monitor', 'admonish' and 'money' uses the same root for 'monster' as in the Italian 'to show' or 'monstrare'"
+type: shard
+categories:
+  - etymology
+  - english
+dateCreated: 2025-09-01T14:03:15+08:00
+dateModified: 2025-09-01T14:10:14+08:00
+---
+English words like 'monitor', 'admonish' and 'money' uses the same root for [[A 'monster' was once considered an omen, sign, message from the Gods|'monster', which was once considered as a sign from the Gods]], as in the Italian [['To show' is 'mostrare' in Italian|'to show' or 'monstrare']]
+
+[[The 'mon' in 'money' could be from 'monster' as 'money' is a 'show' of value.|The 'mon' in 'money' for instance could be from 'monster' as 'money' is a 'show' of value.]]
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^x18lm]]
