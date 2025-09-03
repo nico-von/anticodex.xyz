@@ -1,12 +1,11 @@
 ---
 uid: shard2508252219588490
-title: "Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are'"
+title: Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are'
 type: shard
 categories:
-  - italian
-  - english
+  - sourced
 dateCreated: 2025-08-25T22:19:58+08:00
-dateModified: 2025-09-02T16:37:09+08:00
+dateModified: 2025-09-03T15:21:25+08:00
 ---
 Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to *verb*' form simply by replacing their '-ation' suffix with '-are'
 

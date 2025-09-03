@@ -3,6 +3,7 @@ uid: shard2509021610228480
 title: "'Firmare' is the Italian word for 'to sign'"
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T16:10:22+08:00
 dateModified: 2025-09-02T16:22:24+08:00
 ---

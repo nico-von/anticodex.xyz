@@ -3,9 +3,9 @@ uid: shard2508252132529840
 title: "In Italian, 'Voglio' means 'I want'"
 type: shard
 categories:
-  - italian
+  - sourced
 dateCreated: 2025-08-25T21:32:52+08:00
-dateModified: 2025-08-31T13:39:54+08:00
+dateModified: 2025-09-03T15:13:28+08:00
 ---
 In Italian, 'Voglio' means 'I want'
 

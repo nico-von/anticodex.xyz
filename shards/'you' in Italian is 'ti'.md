@@ -3,9 +3,9 @@ uid: shard2508262233027960
 title: "'you' in Italian is 'ti'"
 type: shard
 categories:
-  - italian
+  - sourced
 dateCreated: 2025-08-26T22:33:02+08:00
-dateModified: 2025-09-02T11:09:51+08:00
+dateModified: 2025-09-03T15:13:56+08:00
 ---
 'you' in Italian is 'ti'
 

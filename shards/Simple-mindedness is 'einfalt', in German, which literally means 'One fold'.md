@@ -1,11 +1,11 @@
 ---
 uid: shard2508291554335470
-title: "Simple-mindedness is 'einfalt', in German, which literally means 'One fold'"
+title: Simple-mindedness is 'einfalt', in German, which literally means 'One fold'
 type: shard
 categories:
-  - german
+  - sourced
 dateCreated: 2025-08-29T15:54:33+08:00
-dateModified: 2025-09-01T12:39:33+08:00
+dateModified: 2025-09-03T15:13:43+08:00
 ---
 Simple-mindedness is 'einfalt' in German, which literally means 'One fold'
 ### Excerpt

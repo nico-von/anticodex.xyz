@@ -3,6 +3,7 @@ uid: shard2509021505375990
 title: "'Organizzare' is the Italian for 'organise'"
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T15:05:37+08:00
 dateModified: 2025-09-02T15:09:56+08:00
 ---

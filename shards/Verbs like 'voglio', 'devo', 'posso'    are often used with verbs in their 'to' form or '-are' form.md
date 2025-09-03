@@ -1,8 +1,9 @@
 ---
 uid: shard2509021622513780
-title: "Verbs like 'voglio', 'devo', 'posso'    are often used with verbs in their 'to' form or '-are' form"
+title: Verbs like 'voglio', 'devo', 'posso'    are often used with verbs in their 'to' form or '-are' form
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T16:22:51+08:00
 dateModified: 2025-09-02T16:34:22+08:00
 ---

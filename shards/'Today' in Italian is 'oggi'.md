@@ -3,8 +3,9 @@ uid: shard2509021215522120
 title: "'Today' in Italian is 'oggi'"
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T12:15:52+08:00
-dateModified: 2025-09-02T12:19:42+08:00
+dateModified: 2025-09-03T15:27:34+08:00
 ---
 'Today' in Italian is 'oggi'
 ### Excerpt

@@ -3,10 +3,10 @@ uid: shard2508190031112060
 title: Latin words in English can be identified by the way they look
 type: shard
 categories:
-  - latin
-  - english
+  - sourced
+  - structure
 dateCreated: 2025-08-19T00:31:11+08:00
-dateModified: 2025-09-01T14:29:33+08:00
+dateModified: 2025-09-03T15:11:01+08:00
 ---
 Latin words in English can be identified 'by the way they look'. 
 

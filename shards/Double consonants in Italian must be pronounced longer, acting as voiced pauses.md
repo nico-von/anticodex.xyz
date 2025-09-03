@@ -3,10 +3,9 @@ uid: shard2508252233304000
 title: Double consonants in Italian must be pronounced longer, acting as voiced pauses
 type: shard
 categories:
-  - italian
-  - pronunciation
+  - sourced
 dateCreated: 2025-08-25T22:33:30+08:00
-dateModified: 2025-09-02T12:19:58+08:00
+dateModified: 2025-09-03T15:26:19+08:00
 ---
 Double consonants in Italians must be pronounced longer, acting as voiced pauses
 

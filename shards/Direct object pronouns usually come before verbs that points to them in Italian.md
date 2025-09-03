@@ -3,9 +3,9 @@ uid: shard2508262249141380
 title: Direct object pronouns usually come before verbs that points to them in Italian
 type: shard
 categories:
-  - italian
+  - unsourced
 dateCreated: 2025-08-26T22:49:14+08:00
-dateModified: 2025-08-31T13:39:14+08:00
+dateModified: 2025-09-03T15:35:57+08:00
 ---
 From various cases like:
 1. [[Unlike 'English', 'it', as a direct object, usually comes before verbs that point to it in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want']]

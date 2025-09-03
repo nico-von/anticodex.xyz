@@ -3,11 +3,10 @@ uid: shard2509011420284710
 title: Some English words related to the economy are of Latin origin as their partial meanings makes sense in Italian
 type: shard
 categories:
-  - english
-  - etymology
-  - latin
+  - sourced
+  - structure
 dateCreated: 2025-09-01T14:20:28+08:00
-dateModified: 2025-09-01T15:25:42+08:00
+dateModified: 2025-09-03T15:10:18+08:00
 ---
 Some English words related to the economy are of Latin origin as their [[Knowing the meaning of a part of a word can show clues to what the rest of the word means|parts]] can be transformed into Italian.
 

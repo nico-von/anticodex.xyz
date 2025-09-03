@@ -1,8 +1,9 @@
 ---
 uid: shard2509021602407570
-title: "The 'fermare' in the Italian word 'confermare' means 'to stop'"
+title: The 'fermare' in the Italian word 'confermare' means 'to stop'
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T16:02:40+08:00
 dateModified: 2025-09-02T16:16:28+08:00
 ---

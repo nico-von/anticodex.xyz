@@ -3,11 +3,9 @@ uid: shard2508190102559190
 title: Italian words, unlike English words, are usually pronounced as they are written
 type: shard
 categories:
-  - italian
-  - pronunciation
-  - english
+  - sourced
 dateCreated: 2025-08-19T01:02:55+08:00
-dateModified: 2025-08-24T13:41:25+08:00
+dateModified: 2025-09-03T15:22:53+08:00
 ---
 Italian words, unlike English words, are usually pronounced as they are written.
 

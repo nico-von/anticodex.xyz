@@ -3,8 +3,9 @@ uid: shard2509021536306380
 title: "'Confermare' is the Italian word for 'to confirm'"
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T15:36:30+08:00
-dateModified: 2025-09-02T16:20:19+08:00
+dateModified: 2025-09-03T15:09:26+08:00
 ---
 'Confermare' is the Italian word for 'to confirm'
 

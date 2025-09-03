@@ -3,10 +3,9 @@ uid: shard2508252139182730
 title: "'Voglio' is connected to 'volunteer' in English because 'volunteering' involves 'wanting'"
 type: shard
 categories:
-  - italian
-  - english
+  - sourced
 dateCreated: 2025-08-25T21:39:18+08:00
-dateModified: 2025-08-25T21:41:28+08:00
+dateModified: 2025-09-03T15:27:04+08:00
 ---
 [[In Italian, 'Voglio' means 'I want'|'Voglio']] is connected to 'volunteer' in English because 'volunteering' involves 'wanting'
 

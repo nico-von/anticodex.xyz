@@ -3,6 +3,7 @@ uid: shard2509021541328160
 title: "'Confermare' literally means 'with firm'"
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T15:41:32+08:00
 dateModified: 2025-09-02T15:55:55+08:00
 ---

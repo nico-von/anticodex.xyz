@@ -3,9 +3,9 @@ uid: shard2509011451183740
 title: "The advert in 'inadvertently' is related to the Italian word 'avvertire' that means 'to warn'"
 type: shard
 categories:
-  - italian
+  - sourced
 dateCreated: 2025-09-01T14:51:18+08:00
-dateModified: 2025-09-01T15:13:12+08:00
+dateModified: 2025-09-03T15:13:20+08:00
 ---
 The advert in 'inadvertently' is related to the [['Avvertire' is the Italian word for 'to warn'|Italian word 'avvertire' that means 'to warn']].
 

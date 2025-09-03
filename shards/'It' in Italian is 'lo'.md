@@ -3,9 +3,9 @@ uid: shard2508252203011670
 title: "'It' in Italian is 'lo'"
 type: shard
 categories:
-  - italian
+  - sourced
 dateCreated: 2025-08-25T22:03:01+08:00
-dateModified: 2025-09-02T12:15:18+08:00
+dateModified: 2025-09-03T15:11:15+08:00
 ---
 'It' in Italian is 'lo'
 

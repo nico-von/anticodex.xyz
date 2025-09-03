@@ -1,11 +1,11 @@
 ---
 uid: shard2509021520056930
-title: "The plural of 'il' is 'i'"
+title: The plural of 'il' is 'i'
 type: shard
 categories:
-  - Italian
+  - sourced
 dateCreated: 2025-09-02T15:20:05+08:00
-dateModified: 2025-09-02T15:25:49+08:00
+dateModified: 2025-09-03T15:26:26+08:00
 ---
 The plural of 'il' is 'i'
 

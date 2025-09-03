@@ -3,9 +3,9 @@ uid: shard2508280011475900
 title: "'Mi' is 'myself' in Italian"
 type: shard
 categories:
-  - italian
+  - sourced
 dateCreated: 2025-08-28T00:11:47+08:00
-dateModified: 2025-09-02T16:27:41+08:00
+dateModified: 2025-09-03T15:11:07+08:00
 ---
 'Mi' is 'myself' in Italian. 
 ### Excerpt

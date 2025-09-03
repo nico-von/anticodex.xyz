@@ -3,10 +3,9 @@ uid: shard2508231817531850
 title: "Sometimes, English words prepended with negating 'in' are of Latin origin"
 type: shard
 categories:
-  - english
-  - latin
+  - unsourced
 dateCreated: 2025-08-23T18:17:53+08:00
-dateModified: 2025-08-23T18:35:59+08:00
+dateModified: 2025-09-03T15:24:12+08:00
 ---
 Sometimes English words prepended with [['In' is a prefix, like 'un', it negates the word it is attached to|negating 'in']] are of Latin origin. 
 
@@ -14,4 +13,4 @@ For example:
 
 The English word [['Incredibile', from the transformation of 'Incredible', means 'Unbelievable' in Latin and Italian|'incredible' is of Latin origin]].
 
-Also, since the negating 'in' has been talked about here, this reminds that [[Simply removing the negating 'in' from an English word of a Latin origin reveals its Latin opposite, its root word]]. 
+Also, since the negating 'in' has been talked about here, this reminds that [[Simply removing the negating 'in' from some English words of a Latin origin reveals its Latin opposite, its root word]]. 

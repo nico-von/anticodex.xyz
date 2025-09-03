@@ -3,9 +3,9 @@ uid: shard2508262236267710
 title: "'you' or  'ti', as a direct object, can come before verbs that point to it in Italian"
 type: shard
 categories:
-  - italian
+  - unsourced
 dateCreated: 2025-08-26T22:36:26+08:00
-dateModified: 2025-08-30T19:51:29+08:00
+dateModified: 2025-09-03T15:08:58+08:00
 ---
 Like [[Unlike 'English', 'it', as a direct object, usually comes before verbs that point to it in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want'|'it' or 'lo' in italian]], 'you' or 'ti'(as a [[What directly receives the action of a verb is called a 'direct object'|direct object]]) can [[Direct object pronouns usually come before verbs that points to them in Italian|come before verbs that point to it in Italian]], observed from the example, [['I love you' in Italian is 'ti voglio bene' which literally means 'You I want well'|'ti voglio bene']]
 

@@ -3,8 +3,9 @@ uid: shard2509021527535710
 title: "'Vedere' is the Italian word for 'to see'"
 type: shard
 categories:
+  - sourced
 dateCreated: 2025-09-02T15:27:53+08:00
-dateModified: 2025-09-02T15:32:16+08:00
+dateModified: 2025-09-03T15:27:27+08:00
 ---
 'Vedere' is the Italian word for 'to see'
 

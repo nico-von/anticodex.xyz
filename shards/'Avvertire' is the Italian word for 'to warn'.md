@@ -3,9 +3,9 @@ uid: shard2509011445185470
 title: "'Avvertire' is the Italian word for 'to warn'"
 type: shard
 categories:
-  - italian
+  - sourced
 dateCreated: 2025-09-01T14:45:18+08:00
-dateModified: 2025-09-01T14:52:12+08:00
+dateModified: 2025-09-03T15:26:30+08:00
 ---
 'Avvertire' is the Italian word for 'to warn'
 

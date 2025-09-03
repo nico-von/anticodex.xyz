@@ -1,12 +1,11 @@
 ---
 uid: shard2508231723275440
-title: "Most English words ending in 'able' and 'ible' are from Latin"
+title: Most English words ending in 'able' and 'ible' are from Latin
 type: shard
 categories:
-  - english
-  - latin
+  - sourced
 dateCreated: 2025-08-23T17:23:27+08:00
-dateModified: 2025-08-23T17:47:09+08:00
+dateModified: 2025-09-03T15:21:08+08:00
 ---
 Most English words ending in 'able' and 'ible' are from Latin
 
