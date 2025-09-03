@@ -1,0 +1,14 @@
+---
+uid: shard2509021513416060
+title: "To get the plural of some Italian words, replace the ending vowel with '-i', like how 'lo' becomes 'li'"
+type: shard
+categories:
+  - italian
+dateCreated: 2025-09-02T15:13:41+08:00
+dateModified: 2025-09-02T15:25:57+08:00
+---
+To get the plural of some Italian words, replace the [[A 'phonetic habit' of Italian is that most words tend to end in vowels.|ending vowel]] with '-i', like how [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them'|'lo' becomes 'li']]
+
+An example is '[['Mostro' is Italian for 'monster'|il mostro]]' becoming '[[The plural of 'il' is 'i'|i]] mostri'
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^ir3mt]]

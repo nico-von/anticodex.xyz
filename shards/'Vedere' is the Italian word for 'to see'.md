@@ -1,0 +1,14 @@
+---
+uid: shard2509021527535710
+title: "'Vedere' is the Italian word for 'to see'"
+type: shard
+categories:
+dateCreated: 2025-09-02T15:27:53+08:00
+dateModified: 2025-09-02T15:32:16+08:00
+---
+'Vedere' is the Italian word for 'to see'
+
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^46mme]]
+
+[['Video' is not just an English word but also a Latin word that is related to the Italian verb 'vedere' that means 'to see'|It is related to the word 'video', 'video', not only is an English word but is also a Latin word]]

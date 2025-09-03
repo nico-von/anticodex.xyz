@@ -5,7 +5,7 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-26T22:33:02+08:00
-dateModified: 2025-08-29T16:46:35+08:00
+dateModified: 2025-09-02T11:09:51+08:00
 ---
 'you' in Italian is 'ti'
 

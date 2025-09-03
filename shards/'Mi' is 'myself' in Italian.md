@@ -5,7 +5,7 @@ type: shard
 categories:
   - italian
 dateCreated: 2025-08-28T00:11:47+08:00
-dateModified: 2025-08-29T15:14:54+08:00
+dateModified: 2025-09-02T16:27:41+08:00
 ---
 'Mi' is 'myself' in Italian. 
 ### Excerpt

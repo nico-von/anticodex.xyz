@@ -6,7 +6,7 @@ categories:
   - italian
   - english
 dateCreated: 2025-08-28T00:19:43+08:00
-dateModified: 2025-08-31T13:58:06+08:00
+dateModified: 2025-09-02T15:59:20+08:00
 ---
 Some English words with the prefix 'con-' use it to mean 'with', similar to the Italian [['Con' means 'with' in Italian|'con']], as in the word 'conform' which becomes 'with form' aligning with [[To conform means to adapt to a given form or standard|its meaning]]. 
 ### Excerpt
@@ -15,5 +15,7 @@ Some English words with the prefix 'con-' use it to mean 'with', similar to the 
 'With' can as well be in the form of [[Like 'con-', 'com-' also means 'with'|'com']].
 
 Another example is [['Complicate' literally means 'with folding' in Italian|'complicate', which literally means 'with folding' in Italian]]
+
+It can prefix words in Italian to, like [['Confermare' literally means 'with firm'|'confermare']]
 
 [[Knowing the meaning of a part of a word can show clues to what the rest of the word means|Knowing the meaning of parts of a word (like 'con') can show clues to what the rest of the word means]]

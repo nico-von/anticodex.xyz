@@ -1,0 +1,15 @@
+---
+uid: shard2509021520056930
+title: "The plural of 'il' is 'i'"
+type: shard
+categories:
+  - Italian
+dateCreated: 2025-09-02T15:20:05+08:00
+dateModified: 2025-09-02T15:25:49+08:00
+---
+The plural of 'il' is 'i'
+
+'Il' has no ending vowel so the 'l' is removed to get the [[To get the plural of some Italian words, replace the ending vowel with '-i', like how 'lo' becomes 'li'|'i']] ending for its plural instead.
+### Excerpt
+![[eleftheriouIntroductionItalianexcerptindex#^e62ye]]
+

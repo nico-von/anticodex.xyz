@@ -17,4 +17,4 @@ Therefore, these pronunciation rules must be followed:
 1. [[Italian words, unlike English words, are usually pronounced as they are written|Italian words are usually pronounced as they are written]] unlike [[In English pronunciation, patterns of Germanic accent are present, whereby the first syllable is usually stressed and the rest are not|in English where some syllables are stressed while others are not]]
 2. [[In Italian, each vowel must be pronounced]]
 3. [[The 'c' in 'ci' or 'ce' in Italian is pronounced as 'ch']]
-4. [[Double consonants in Italians must be pronounced longer, acting as voiced pauses]]
+4. [[Double consonants in Italian must be pronounced longer, acting as voiced pauses]]

@@ -6,7 +6,7 @@ categories:
   - italian
   - english
 dateCreated: 2025-08-25T22:07:41+08:00
-dateModified: 2025-08-30T19:49:36+08:00
+dateModified: 2025-09-02T11:09:41+08:00
 ---
 Unlike 'English', [['It' in Italian is 'lo'|'it']], as a [[What directly receives the action of a verb is called a 'direct object'|'direct object']], [[Direct object pronouns usually come before verbs that points to them in Italian|usually comes before verbs that point to it]] in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want'
 
