@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:27:17+08:00
 A weaker and closed 'e' sound in Italian means 'and'.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^txuy1]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^txuy1]]
 
 It may be confused with [[An open 'e' sound in Italian means 'third person..is'|'è', the Italian 'third person...is']].

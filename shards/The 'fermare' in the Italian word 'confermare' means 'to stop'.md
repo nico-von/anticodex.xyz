@@ -10,7 +10,7 @@ dateModified: 2025-09-02T16:16:28+08:00
 The 'fermare' in [['Confermare' is the Italian word for 'to confirm'|'confermare']] means 'to stop'. 
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^h0ztx]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^h0ztx]]
 
 Like the [['Confermare' literally means 'with firm'|literal meaning of 'confermare']], it is connected with the word [['Firm' indicates that what it describes is secure or fixed|'firm' in English which signifies fixness]]. As bringing something to a stop means having it *fixed* in place.
 

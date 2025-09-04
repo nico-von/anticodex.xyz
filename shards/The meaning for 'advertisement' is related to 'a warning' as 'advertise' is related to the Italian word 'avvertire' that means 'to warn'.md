@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:26:54+08:00
 The meaning for 'advertisement' is related to 'a warning' because 'advertise' is related to [['Avvertire' is the Italian word for 'to warn'|'avvertire' that is the Italian word for 'to warn']]
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^dgv-9]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^dgv-9]]

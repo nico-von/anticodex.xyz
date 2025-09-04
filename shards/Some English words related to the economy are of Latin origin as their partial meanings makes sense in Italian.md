@@ -16,4 +16,4 @@ Examples would be:
 3. [[The meaning for 'advertisement' is related to 'a warning' as 'advertise' is related to the Italian word 'avvertire' that means 'to warn']]
 4. [['Debt' is 'obligation' because it is related to the Italian word 'devo' that means 'I must', 'I have to']]
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^e-jf4]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^e-jf4]]

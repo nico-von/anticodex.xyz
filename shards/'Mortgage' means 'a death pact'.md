@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:11+08:00
 'Mortgage' means 'a death pact' ^w1zsy
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^ezp2t]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^ezp2t]]

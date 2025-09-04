@@ -9,4 +9,4 @@ dateModified: 2025-09-03T15:29:08+08:00
 ---
 'Piegare' means to fold in Italian.
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^6kgps]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^6kgps]]

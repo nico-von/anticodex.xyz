@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:24:16+08:00
 The 'bene' in the English word 'benefit' is related with [['bene' means 'well' in Italian|'bene']] in Italian, indicating 'wellness', as [['Benefit' means something that promotes good, advantageous results, or well-being|'benefit' can mean as something that promotes well-being]]
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^9s24m]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^9s24m]]

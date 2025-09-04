@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:17+08:00
 'di' is the Italian for 'of' or 'from'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^9j902]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^9j902]]

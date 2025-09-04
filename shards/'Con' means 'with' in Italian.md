@@ -5,11 +5,11 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-08-28T00:31:49+08:00
-dateModified: 2025-09-03T15:12:28+08:00
+dateModified: 2025-09-04T19:39:42+08:00
 ---
 'Con' means 'with' in Italian
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^fgpez]] 
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^fgpez]] 
 
 It prefixes a lot of words like [['Confermare' is the Italian word for 'to confirm'|'confermare']], the English words [[Some English words with the prefix 'con-' use it to mean 'with', similar to the Italian 'con', as in the word 'conform'|'conform']] and [['Complicate' literally means 'with folding' in Italian|'complicate']] through its other form [[Like 'con-', 'com-' also means 'with'|'com']]

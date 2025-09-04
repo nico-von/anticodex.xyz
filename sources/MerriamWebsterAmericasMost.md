@@ -21,4 +21,4 @@ dateModified: 2025-09-03T11:47:18+08:00
 Find definitions for over 300,000 words from the most authoritative English dictionary. Continuously updated with new words and meanings.
 
 ## Excerpt Index
-![[MerriamWebsterAmericasMostexcerptindex]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex]]

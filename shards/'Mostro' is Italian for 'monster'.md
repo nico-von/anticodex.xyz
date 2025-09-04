@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:19:46+08:00
 'Mostro' is Italian for 'monster'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^widl0]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^widl0]]
 
 [[A 'monster' was once considered an omen, sign, message from the Gods]], and it appears that, [[In languages of Latin origin, at least in Italian and in English, the Latin root of 'monster' was used for some words related to 'showing']]

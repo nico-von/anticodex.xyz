@@ -10,7 +10,7 @@ dateModified: 2025-09-03T15:22:53+08:00
 Italian words, unlike English words, are usually pronounced as they are written.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^iy58q]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^iy58q]]
 
 This means, [[In Italian, each vowel must be pronounced]].
 

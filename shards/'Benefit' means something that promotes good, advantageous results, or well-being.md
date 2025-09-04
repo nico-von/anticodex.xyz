@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:41+08:00
 'Benefit' means something that promotes good, advantageous results, or well-being. 
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^2jhup]] 
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^2jhup]] 

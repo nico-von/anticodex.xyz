@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:10:55+08:00
 The 'e' added to [[Most English words ending in 'al' can be 'transformed' to Italian by simply adding an 'e' to the end|transformed 'al' words]] and [[Most English words ending in 'ible' and 'able' can be transformed to Italian by changing them to 'ibile' and 'abile|transformed 'able' and 'ible' words]] is lost when [[English '-ly' adjectives need only have '-ly' replaced with '-mente' to transform to Italian|adding '-mente']] because 'mente' [[A 'phonetic habit' of Italian is that most words tend to end in vowels.|already ends in a vowel]]
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^aca3k]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^aca3k]]
 
 The same is true for [[In attaching a pronoun to the end of a verb with an '-are' form, the 'e' is removed, replaced with the pronoun|attaching pronouns to the end of verbs with the '-are' form]]

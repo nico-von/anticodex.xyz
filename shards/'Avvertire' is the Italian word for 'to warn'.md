@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:26:30+08:00
 'Avvertire' is the Italian word for 'to warn'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^eao2g]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^eao2g]]
 
 'Avvertire' can be seen attached to words like [[The meaning for 'advertisement' is related to 'a warning' as 'advertise' is related to the Italian word 'avvertire' that means 'to warn'|'Advertisement']] and 'inAdvertently'

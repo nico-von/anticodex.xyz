@@ -1,16 +1,22 @@
 ---
 uid: shard2508252219588490
-title: Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are'
+title: "Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are'"
 type: shard
 categories:
   - sourced
+  - structure
 dateCreated: 2025-08-25T22:19:58+08:00
-dateModified: 2025-09-03T15:21:25+08:00
+dateModified: 2025-09-04T19:59:26+08:00
 ---
 Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to *verb*' form simply by replacing their '-ation' suffix with '-are'
 
+Examples are:
+- [['Collaborare' is 'to collaborate' in Italian|'collaborate' becomes 'collaborare']]
+- [['Confermare' is the Italian word for 'to confirm'|'confirmation' becomes 'confermare', a little change but very similar]]
+- [['Organizzare' is the Italian for 'organise'|'organisation' becomes 'organizzare']]
+
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^0118k]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^0118k]]
 
 [['Non' means 'not' in Italian and often added before verbs to negate them|Adding 'non' before these verbs should negate them too]]
 

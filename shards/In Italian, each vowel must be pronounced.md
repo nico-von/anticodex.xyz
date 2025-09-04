@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:07+08:00
 In Italian, each vowel must be pronounced.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^7on16]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^7on16]]

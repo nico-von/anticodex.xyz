@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:27:55+08:00
 What directly receives the action of a verb is called a Direct Object
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^1t0hb]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^1t0hb]]

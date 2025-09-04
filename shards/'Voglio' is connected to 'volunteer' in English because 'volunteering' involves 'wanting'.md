@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:27:04+08:00
 [[In Italian, 'Voglio' means 'I want'|'Voglio']] is connected to 'volunteer' in English because 'volunteering' involves 'wanting'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^d04fn]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^d04fn]]

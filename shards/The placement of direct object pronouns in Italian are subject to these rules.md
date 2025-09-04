@@ -14,4 +14,4 @@ The placement of direct object pronouns are subject to these rules:
 3. [[Placing a direct object pronoun to the end of a verb in its '-are' form is optional if another verb pointing to it exists]]
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^nogh-]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^nogh-]]

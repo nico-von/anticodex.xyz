@@ -6,7 +6,7 @@ categories:
   - webpage
   - audio
 dateCreated: 2025-08-19T00:14:33+08:00
-dateModified: 2025-09-03T11:47:01+08:00
+dateModified: 2025-09-04T19:22:03+08:00
 ---
 
 ## Bibliography
@@ -22,4 +22,4 @@ Eleftheriou, Mihalis. n.d. “Introduction to Italian.” Language Transfer. Acc
 N/A
 
 ## Excerpt Index
-![[eleftheriouIntroductionItalianexcerptindex]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex]]

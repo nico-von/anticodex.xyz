@@ -9,6 +9,6 @@ dateModified: 2025-09-03T15:27:34+08:00
 ---
 'Today' in Italian is 'oggi'
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^kx2e2]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^kx2e2]]
 
 As 'oggi' has [[Double consonants in Italian must be pronounced longer, acting as voiced pauses|double consonants, it means that it must be pronounced longer]]

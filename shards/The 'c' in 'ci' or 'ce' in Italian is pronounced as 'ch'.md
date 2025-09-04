@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:52+08:00
 The 'c' in 'ci' or 'ce' in Italian is pronounced as 'ch'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^qxmu8]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^qxmu8]]

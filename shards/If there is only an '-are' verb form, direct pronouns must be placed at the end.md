@@ -9,4 +9,4 @@ dateModified: 2025-09-03T15:27:58+08:00
 ---
 If there is only an '-are' verb form, direct pronouns must be placed at the end
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^u00s6]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^u00s6]]

@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:47+08:00
 'Manifold' in English indicates 'variety' or 'diversity'
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^-ljmj]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^-ljmj]]

@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:57+08:00
 In English pronunciation, patterns of Germanic accent are present, whereby the first syllable is usually stressed and the rest are not
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^mwvec]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^mwvec]]

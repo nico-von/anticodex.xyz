@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:22:36+08:00
 'I love you' in Italian is 'ti voglio bene' which literally means 'You I want well'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^90wqz]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^90wqz]]
 
 [['you' in Italian is 'ti'|'ti', here means 'you']], while [['bene' means 'well' in Italian|'bene' means well]]

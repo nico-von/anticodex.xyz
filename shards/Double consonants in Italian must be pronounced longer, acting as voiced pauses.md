@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:26:19+08:00
 Double consonants in Italians must be pronounced longer, acting as voiced pauses
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^dw8oe]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^dw8oe]]
 
 [[Double consonants in Italian give the speaker time to think by acting as voiced pauses|Such pauses gives the speaker time to think]]

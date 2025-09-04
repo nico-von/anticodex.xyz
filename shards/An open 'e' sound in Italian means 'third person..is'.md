@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:04+08:00
 An open 'e' sound, spelled 'è', in Italian means 'He is', 'She is', or, 'It is'.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^v2s3f]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^v2s3f]]

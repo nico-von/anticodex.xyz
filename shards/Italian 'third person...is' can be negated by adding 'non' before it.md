@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:23:01+08:00
 [[An open 'e' sound in Italian means 'third person..is'|Italian 'third person…is']] can be negated by adding [['Non' means 'not' in Italian and often added before verbs to negate them|'non']] before it. 
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^387u7]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^387u7]]

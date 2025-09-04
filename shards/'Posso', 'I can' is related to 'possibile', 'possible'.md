@@ -12,4 +12,4 @@ dateModified: 2025-09-03T15:24:02+08:00
 As there is a **possibility** to do something, it means that it **CAN** be done.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^wuyl3]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^wuyl3]]

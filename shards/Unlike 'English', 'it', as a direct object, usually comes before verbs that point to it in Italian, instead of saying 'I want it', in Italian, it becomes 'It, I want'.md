@@ -10,7 +10,7 @@ dateModified: 2025-09-03T18:15:17+08:00
 Unlike 'English', [['It' in Italian is 'lo'|'it']], as a [[What directly receives the action of a verb is called a 'direct object'|'direct object']], [[Direct object pronouns usually come before verbs that points to them in Italian|usually comes before verbs that point to it]] in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^2wi5c]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^2wi5c]]
 
 This is [[Direct object pronouns in Italian MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached|necessary if no '-are' form of verb exists]]
 

@@ -10,7 +10,7 @@ dateModified: 2025-09-03T15:11:15+08:00
 'It' in Italian is 'lo'
 
 ### Excerpts
-![[eleftheriouIntroductionItalianexcerptindex#^vghu1]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^vghu1]]
 
 [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them']]
 

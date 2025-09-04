@@ -5,12 +5,12 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-02T15:36:30+08:00
-dateModified: 2025-09-03T15:09:26+08:00
+dateModified: 2025-09-04T19:41:07+08:00
 ---
 'Confermare' is the Italian word for 'to confirm'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^aqmfp]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^aqmfp]]
 
 [['Confermare' literally means 'with firm']] as [['Con' means 'with' in Italian|'Con' means 'with']] which leaves the word [['Firm' indicates that what it describes is secure or fixed|'firm' which indicates secureness or fixness]]
 

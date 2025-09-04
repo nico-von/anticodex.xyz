@@ -10,7 +10,7 @@ dateModified: 2025-09-02T15:19:03+08:00
 The plural of [['It' in Italian is 'lo'|'lo', or 'it']], is 'li' in Italian. 'Li' means 'them'.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^y5ko-]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^y5ko-]]
 
 'Lo' has 'li' as its plural because [[To get the plural of some Italian words, replace the ending vowel with '-i', like how 'lo' becomes 'li'|the ending vowel of some Italian words is replaced with '-i' to get their plural form]]
 

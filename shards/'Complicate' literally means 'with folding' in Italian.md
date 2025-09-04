@@ -10,7 +10,7 @@ dateModified: 2025-09-03T15:11:32+08:00
 'Complicate' literally means 'with([[Like 'con-', 'com-' also means 'with'|com]]) folding' in Italian… 
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^zaj0l]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^zaj0l]]
 
 [['piegare' means to fold in Italian|Folding in Italian is 'piegare']], Also, by observation, *Con piegare* kind of sounds like complicate 
 

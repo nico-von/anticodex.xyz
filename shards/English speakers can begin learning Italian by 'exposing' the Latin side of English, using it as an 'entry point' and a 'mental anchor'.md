@@ -6,12 +6,12 @@ categories:
   - sourced
   - structure
 dateCreated: 2025-08-19T00:19:21+08:00
-dateModified: 2025-09-03T15:29:29+08:00
+dateModified: 2025-09-04T00:28:33+08:00
 ---
 English speakers can begin learning Italian by 'exposing' the Latin side of English, using it as an 'entry point' and a 'mental anchor'.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^7kzqy]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^7kzqy]]
 
 Entry points:
 1. [[Latin words in English can be identified by the way they look]]

@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:14:30+08:00
 'Incredibile', [[Most English words ending in 'ible' and 'able' can be transformed to Italian by changing them to 'ibile' and 'abile|from the transformation of 'Incredible']], means 'Unbelievable' in Latin and Italian
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^imp84]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^imp84]]
 
 This is why [['Incredible' is defined as 'too extraordinary and improbable to be believed', 'amazing, extraordinary']]

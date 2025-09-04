@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:29:01+08:00
 'possibile' is possible in Italian
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^gg9sk]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^gg9sk]]

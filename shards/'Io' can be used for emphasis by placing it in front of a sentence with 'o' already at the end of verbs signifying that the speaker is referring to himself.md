@@ -9,6 +9,6 @@ dateModified: 2025-09-03T15:13:01+08:00
 ---
 [[The Italian word for 'I' is 'io'|'Io']] can be used for emphasis by placing it in front of the sentence(even [[Negation comes before 'it' in Italian, instead of saying 'I do not want it', it becomes, 'not it I want' or 'non lo voglio'|in front of 'non']], i.e. 'Io non lo voglio') with [[The English pronoun 'I' is signified in a verb like 'Voglio' by the 'o' at its end|'o' already at the end of verbs signifying that the speaker is referring to himself]]
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^0kj0i]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^0kj0i]]
 
 [['Io' can be used for emphasis by being placed at the end of a sentence with 'o' already at the end of verbs signifying that the speaker is referring to himself|'Io' can also be used for emphasis by being placed at the end of a sentence with 'o' already at the end of verbs signifying that the speaker is referring to himself]]

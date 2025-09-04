@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:27:48+08:00
 'Firm' indicates that what it describes is secure or fixed
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^qevdy]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^qevdy]]

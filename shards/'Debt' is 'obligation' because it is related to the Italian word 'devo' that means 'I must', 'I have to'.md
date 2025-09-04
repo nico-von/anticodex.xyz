@@ -9,4 +9,4 @@ dateModified: 2025-09-03T15:26:47+08:00
 ---
 'Debt' is 'obligation' because it is related to the Italian word [['devo' is the Italian word for 'I have to', 'I must', 'I owe'|'devo' that means 'I must', 'I have to']]
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^l8a6l]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^l8a6l]]

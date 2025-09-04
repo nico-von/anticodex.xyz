@@ -10,4 +10,4 @@ dateModified: 2025-09-02T15:32:22+08:00
 'Video' is not just an English word but also a Latin word that is related to the Italian verb [['Vedere' is the Italian word for 'to see'|'vedere' that means 'to see']]
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^f0u-7]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^f0u-7]]

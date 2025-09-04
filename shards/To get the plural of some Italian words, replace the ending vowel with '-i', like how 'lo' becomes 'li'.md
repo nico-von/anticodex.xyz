@@ -11,4 +11,4 @@ To get the plural of some Italian words, replace the [[A 'phonetic habit' of Ita
 
 An example is '[['Mostro' is Italian for 'monster'|il mostro]]' becoming '[[The plural of 'il' is 'i'|i]] mostri'
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^ir3mt]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^ir3mt]]

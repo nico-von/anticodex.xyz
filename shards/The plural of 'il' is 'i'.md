@@ -11,5 +11,5 @@ The plural of 'il' is 'i'
 
 'Il' has no ending vowel so the 'l' is removed to get the [[To get the plural of some Italian words, replace the ending vowel with '-i', like how 'lo' becomes 'li'|'i']] ending for its plural instead.
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^e62ye]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^e62ye]]
 

@@ -11,7 +11,7 @@ dateModified: 2025-09-03T15:09:12+08:00
 In Italian, words must be clearly pronounced as they may lead to misunderstanding. For example: [[An open 'e' sound in Italian means 'third person..is']] while [[A weaker and closed 'e' sound in Italian means 'and']]. 
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^txuy1]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^txuy1]]
 
 Therefore, these pronunciation rules must be followed:
 1. [[Italian words, unlike English words, are usually pronounced as they are written|Italian words are usually pronounced as they are written]] unlike [[In English pronunciation, patterns of Germanic accent are present, whereby the first syllable is usually stressed and the rest are not|in English where some syllables are stressed while others are not]]

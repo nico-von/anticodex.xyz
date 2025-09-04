@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:34+08:00
 To conform means to adapt to a given form or standard
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^izqhj]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^izqhj]]

@@ -6,16 +6,18 @@ categories:
   - sourced
   - structure
 dateCreated: 2025-08-29T16:05:48+08:00
-dateModified: 2025-09-03T15:19:59+08:00
+dateModified: 2025-09-04T20:13:14+08:00
 ---
 Knowing the meaning of parts of a word can shed light to its origin, how the word came to be
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^28m3e]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^28m3e]]
 
-For instance, [[Some English words with the prefix 'con-' use it to mean 'with', similar to the Italian 'con', as in the word 'conform'|the prefix 'con-' in the word 'conform' literally means 'with', the entire word literally meaning 'with form', shows a clue as to the meaning of the word conform without looking it up]]. 
+For instance, [[Some English words with the prefix 'con-' use it to mean 'with', similar to the Italian 'con', as in the word 'conform'|the prefix 'con-' in the word 'conform' literally means 'with', the entire word literally meaning 'with form', shows a clue as to the meaning of the word conform without looking it up]].
 
 [['Confermare' literally means 'with firm'|Another is the word 'confirm' or 'confermare' in Italian]]
 
+Do know that [[In an Italian word which literal meaning is prefixed with 'with', the 'n' in 'con' can adapt or assimilate to the consonant following it, like 'col-' in 'collaborare'|the 'n' in 'con' can be assimilated and adapt to the consonant following it, an example is 'collaborare']]. This means that it can be true with SOME words that are prefixed with [[Some Italian words or perhaps even English words prefixed with 'co-' may indicate 'with' as well|'co-']] and is not only true for Italian but for [[The assimilation of 'n' in  Italian words with their literal meaning prefixed with 'con' may as well be true for English, such as 'col' in 'collaborate'|English]] as well.
+ 
 Another is [['Complicate' literally means 'with folding' in Italian|complicate]], the prefix [[Like 'con-', 'com-' also means 'with'|'com']], also meaning 'with', literally means 'with folding'. The meaning of the word from this information can at first be quite confusing, however, when connected with [[Simple-mindedness is 'einfalt', in German, which literally means 'One fold'|the German word for 'simple-minded': 'einfalt', literally meaning 'one fold']], the significance of fold is suddenly brought to light, as if [['Fold' signifies layers of complexity]].
 
 Another is [[In languages of Latin origin, at least in Italian and in English, the Latin root of 'monster' was used for some words related to 'showing'|the Latin root of 'monster']] which signifies [[A 'monster' was once considered an omen, sign, message from the Gods|as showing a sign]], like how in Italian, the verb, 'to show', is [['To show' is 'mostrare' in Italian|'mostrare']], and the verb, 'to demonstrate', is [['Dimostrare' is the Italian of 'to demonstrate'|'dimostrare']].

@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:26+08:00
 To warn is to give notice or call something to one's attention, especially incoming danger
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^vym49]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^vym49]]

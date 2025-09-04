@@ -10,7 +10,7 @@ dateModified: 2025-09-03T15:14:05+08:00
 'Il' is Italian for 'the' as observed from the phrase 'il [['Mostro' is Italian for 'monster'|'mostro']]' that literally means 'the monster'
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^widl0]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^widl0]]
 
 [[The plural of 'il' is 'i']]
 

@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:22:31+08:00
 The 'mon' in 'money' could be from [[A 'monster' was once considered an omen, sign, message from the Gods|'monster' which was once considered an omen, sign, message from the Gods]] . 'Mon', therefore, [['To show' is 'mostrare' in Italian|suggests 'showing' something]] and 'money' is a 'show' of value.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^lpd6d]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^lpd6d]]

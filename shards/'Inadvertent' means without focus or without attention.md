@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:28:37+08:00
 'Inadvertent' means without focus or without attention
 
 ### Excerpt
-![[MerriamWebsterAmericasMostexcerptindex#^gydz1]]
+![[MerriamWebsterAmericasMostignorecopyrightexcerptindex#^gydz1]]

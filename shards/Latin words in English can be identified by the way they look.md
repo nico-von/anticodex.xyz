@@ -11,7 +11,7 @@ dateModified: 2025-09-03T15:11:01+08:00
 Latin words in English can be identified 'by the way they look'. 
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^squza]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^squza]]
 
 Such as:
 1. [[Most English words ending in 'al' are from Latin]]

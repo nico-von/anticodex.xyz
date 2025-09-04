@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:25:28+08:00
 [[Most English words ending in 'able' and 'ible' are from Latin|Most English words ending in 'ible' and 'able']] can be transformed to Italian by changing them to 'ibile' and 'abile. 
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^v7m2h]] 
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^v7m2h]] 

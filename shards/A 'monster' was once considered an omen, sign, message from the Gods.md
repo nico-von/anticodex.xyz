@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:27:42+08:00
 A 'monster' was once considered an omen, sign, message from the Gods
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^f5516]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^f5516]]

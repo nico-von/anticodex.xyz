@@ -10,7 +10,7 @@ dateModified: 2025-09-03T15:13:36+08:00
 'In' is a prefix, like 'un', they negate the word they are attached to
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^imp84]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^imp84]]
 
 And since [['Incredibile', from the transformation of 'Incredible', means 'Unbelievable' in Latin and Italian]], [[Removing the negating 'in' from 'incredibile' leaves the word 'credibile' which is Latin and Italian for 'believable']]. 
 

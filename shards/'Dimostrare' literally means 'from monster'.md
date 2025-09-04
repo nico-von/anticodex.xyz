@@ -9,6 +9,6 @@ dateModified: 2025-09-03T15:18:42+08:00
 ---
 'Dimostrare' literally means 'from monster' or 'from show', because [['di' is the Italian for 'of' or 'from'|'di' means 'from']] and 'mostrare' means 'show', derived from 'monster'(the Italian for 'monster' being [['Mostro' is Italian for 'monster'|'mostro']]) which was [[A 'monster' was once considered an omen, sign, message from the Gods|considered a sign from the Gods]]
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^cl0p8]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^cl0p8]]
 
 It appears as if [[In languages of Latin origin, at least in Italian and in English, the Latin root of 'monster' was used for some words related to 'showing']]

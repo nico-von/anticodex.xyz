@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:22:26+08:00
 'I don't want' can be said in Italian by simply negating [[In Italian, 'Voglio' means 'I want'|'voglio']] with [['Non' means 'not' in Italian and often added before verbs to negate them|'non']] added before it
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^dredx]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^dredx]]

@@ -10,4 +10,4 @@ dateModified: 2025-09-03T15:27:01+08:00
 This 'able' or 'ible' ending must be native to the English word and not appended to be [[Most English words ending in 'able' and 'ible' are from Latin|considered of Latin origin]]
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^ggoej]] 
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^ggoej]] 

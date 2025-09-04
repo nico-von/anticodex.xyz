@@ -11,4 +11,4 @@ English words like 'monitor', 'admonish' and 'money' uses the same root for [[A 
 
 [[The 'mon' in 'money' could be from 'monster' as 'money' is a 'show' of value.|The 'mon' in 'money' for instance could be from 'monster' as 'money' is a 'show' of value.]]
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^x18lm]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^x18lm]]

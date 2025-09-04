@@ -10,7 +10,7 @@ dateModified: 2025-09-03T15:21:08+08:00
 Most English words ending in 'able' and 'ible' are from Latin
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^tyd1e]] 
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^tyd1e]] 
 
 And [[This 'able' or 'ible' ending must be native to the English word, and not appended, to be considered of Latin origin]]. 
 

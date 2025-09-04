@@ -10,6 +10,6 @@ dateModified: 2025-09-03T15:26:16+08:00
 A 'phonetic habit' of Italian is that most words tend to end in vowels.
 
 ### Excerpt
-![[eleftheriouIntroductionItalianexcerptindex#^5zztt]]
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^5zztt]]
 
 And as this speaks of vowels and phonetics, it reminds of how vowels must be pronounced in Italian: that [[In Italian, each vowel must be pronounced]]. 
