@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-01T14:45:18+08:00
-dateModified: 2025-09-03T15:26:30+08:00
+dateModified: 2025-09-04T22:54:56+08:00
 ---
 'Avvertire' is the Italian word for 'to warn'
 

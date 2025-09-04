@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-01T14:51:18+08:00
-dateModified: 2025-09-03T15:13:20+08:00
+dateModified: 2025-09-04T22:54:58+08:00
 ---
 The advert in 'inadvertently' is related to the [['Avvertire' is the Italian word for 'to warn'|Italian word 'avvertire' that means 'to warn']].
 
