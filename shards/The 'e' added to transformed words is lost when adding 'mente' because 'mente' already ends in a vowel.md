@@ -12,4 +12,4 @@ The 'e' added to [[Most English words ending in 'al' can be 'transformed' to Ita
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^aca3k]]
 
-The same is true for [[In attaching a pronoun to the end of a verb with an '-are' form, the 'e' is removed, replaced with the pronoun|attaching pronouns to the end of verbs with the '-are' form]]
+The same is true for [[In attaching a pronoun to the end of a verb with an Italian 'to {verb}' form, the 'e' is removed, replaced with the pronoun|attaching pronouns to the end of verbs with the '-are' form]]

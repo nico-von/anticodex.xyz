@@ -6,7 +6,7 @@ categories:
   - sourced
   - structure
 dateCreated: 2025-08-19T01:19:17+08:00
-dateModified: 2025-09-03T15:09:12+08:00
+dateModified: 2025-09-08T14:36:36+08:00
 ---
 In Italian, words must be clearly pronounced as they may lead to misunderstanding. For example: [[An open 'e' sound in Italian means 'third person..is']] while [[A weaker and closed 'e' sound in Italian means 'and']]. 
 
@@ -18,3 +18,4 @@ Therefore, these pronunciation rules must be followed:
 2. [[In Italian, each vowel must be pronounced]]
 3. [[The 'c' in 'ci' or 'ce' in Italian is pronounced as 'ch']]
 4. [[Double consonants in Italian must be pronounced longer, acting as voiced pauses]]
+5. [[Misplacing accents on an Italian word can change its meaning, 'lavoro' can mean 'he worked' instead of 'I work' if accented incorrectly]]

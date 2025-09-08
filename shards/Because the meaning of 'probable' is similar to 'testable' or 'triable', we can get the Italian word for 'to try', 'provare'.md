@@ -1,0 +1,14 @@
+---
+uid: shard2509081604571860
+title: "Because the meaning of 'probable' is similar to 'testable' or 'triable', we can get the Italian word for 'to try', 'provare'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-08T16:04:57+08:00
+dateModified: 2025-09-08T16:16:00+08:00
+---
+Because [[The meaning of 'probable' is similar to 'testable' or 'triable'|the meaning of 'probable' is similar to 'testable' or 'triable']], we can get the Italian word for 'to try' : [['Provare' is the verb for 'to try' in Italian|'provare']].
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^ixqlx]]
+
+[[The Italian word 'provare' from 'probable' shows the 'v' to 'b' letter or sound crossover too]]

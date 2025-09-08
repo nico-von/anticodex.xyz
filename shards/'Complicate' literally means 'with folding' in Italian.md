@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-08-29T15:24:14+08:00
-dateModified: 2025-09-03T15:11:32+08:00
+dateModified: 2025-09-08T14:29:13+08:00
 ---
 'Complicate' literally means 'with([[Like 'con-', 'com-' also means 'with'|com]]) folding' in Italian… 
 

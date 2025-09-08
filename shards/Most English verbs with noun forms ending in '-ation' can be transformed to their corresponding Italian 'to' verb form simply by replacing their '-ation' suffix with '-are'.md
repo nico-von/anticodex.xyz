@@ -20,4 +20,4 @@ Examples are:
 
 [['Non' means 'not' in Italian and often added before verbs to negate them|Adding 'non' before these verbs should negate them too]]
 
-These 'to' verb forms or '-are' verb forms are often with [[Verbs like 'voglio', 'devo', 'posso'    are often used with verbs in their 'to' form or '-are' form|verbs like 'voglio', 'devo' and 'posso']] in a sentence.
+These 'to' verb forms or '-are' verb forms are often with [[Verbs like 'voglio', 'devo', 'posso' are often used with verbs in their Italian 'to {verb}' form|verbs like 'voglio', 'devo' and 'posso']] in a sentence.

@@ -5,8 +5,10 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-02T11:14:25+08:00
-dateModified: 2025-09-07T15:11:48+08:00
+dateModified: 2025-09-08T14:37:24+08:00
 ---
 As [[The English pronoun 'I' is signified in a verb like 'Voglio' by the 'o' at its end|the english first person pronoun 'I' is signified in a verb(like 'voglio' by the 'o' at its end]], the 'o' in 'devo' indicates that it refers to the speaker
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^feah1]]
+
+This 'o' is [[Misplacing accents on an Italian word can change its meaning, 'lavoro' can mean 'he worked' instead of 'I work' if accented incorrectly|not accented]].

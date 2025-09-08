@@ -6,7 +6,7 @@ categories:
   - sourced
   - structure
 dateCreated: 2025-08-19T00:19:21+08:00
-dateModified: 2025-09-04T00:28:33+08:00
+dateModified: 2025-09-08T15:55:45+08:00
 ---
 English speakers can begin learning Italian by 'exposing' the Latin side of English, using it as an 'entry point' and a 'mental anchor'.
 
@@ -24,3 +24,5 @@ Transformations:
 4. [[Simply removing the negating 'in' from some English words of a Latin origin reveals its Latin opposite, its root word]]
 5. [[Unlike 'English', 'it', as a direct object, usually comes before verbs that point to it in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want']]
 6. [[Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are']]
+7. [[English words ending in '-ity' can be transformed to Italian by changing '-ity' to '-ità']]
+8. [[The Italian root of an Italian word transformed from English can be 'guessed' by attaching a vowel to the end (because Italian words mostly end in vowels) and picking something that sounds best because it is something that you might have heard before]]

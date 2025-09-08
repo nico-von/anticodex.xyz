@@ -12,11 +12,11 @@ Unlike 'English', [['It' in Italian is 'lo'|'it']], as a [[What directly receive
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^2wi5c]]
 
-This is [[Direct object pronouns in Italian MUST be in front of a verb that points its action to it if there is not an '-are' verb form to which it can be attached|necessary if no '-are' form of verb exists]]
+This is [[Direct object pronouns in Italian MUST be in front of a verb that points its action to it if there is not an Italian 'to {verb}' verb form to which it can be attached|necessary if no '-are' form of verb exists]]
 
-There is also an [[Placing a direct object pronoun to the end of a verb in its '-are' form is optional if another verb and the '-are' form exists together|option]] to [[If a verb is in its '-are' form, direct object pronouns can be attached to the end of it|put 'lo' at the end of a verb if the verb is in its '-are' form]]
+There is also an [[Placing a direct object pronoun to the end of a verb in its Italian 'to {verb}' form is optional if another verb and the Italian 'to {verb}' form exists together|option]] to [[If a verb is in its Italian 'to {verb}' form, direct object pronouns can be attached to the end of it|put 'lo' at the end of a verb if the verb is in its '-are' form]]
 
-But [[If there is only an '-are' verb form, direct pronouns must be placed at the end|if only an '-are' form of verb exists, 'lo' can only be placed at the end of it.]] See [[The placement of direct object pronouns in Italian are subject to these rules|these direct pronoun placement rules]] for further clarification.
+But [[If there is only an Italian 'to {verb}' verb form, direct pronouns must be placed at the end|if only an '-are' form of verb exists, 'lo' can only be placed at the end of it.]] See [[The placement of direct object pronouns in Italian are subject to these rules|these direct pronoun placement rules]] for further clarification.
 
 Nevertheless, [[Negation comes before 'it' in Italian, instead of saying 'I do not want it', it becomes, 'not it I want' or 'non lo voglio']]
  

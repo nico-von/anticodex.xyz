@@ -1,0 +1,12 @@
+---
+uid: shard2509081603308320
+title: "The meaning of 'probable' is similar to 'testable' or 'triable'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-08T16:03:30+08:00
+dateModified: 2025-09-08T16:05:32+08:00
+---
+The meaning of 'probable' is similar with 'testable' or 'triable'
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^qb6ci]]

@@ -1,0 +1,13 @@
+---
+uid: shard2509081610435090
+title: "The Italian word 'provare' from 'probable' shows the 'v' to 'b' letter or sound crossover too"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-08T16:10:43+08:00
+dateModified: 2025-09-08T16:11:46+08:00
+---
+The Italian word [[Because the meaning of 'probable' is similar to 'testable' or 'triable', we can get the Italian word for 'to try', 'provare'|'provare' from 'probable']] shows the [[The 'v' letter often crossovers with the 'b' sound or letter and vice versa|'v' to 'b' letter or sound crossover too]]
+
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^hkgyr]]
