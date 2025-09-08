@@ -1,0 +1,12 @@
+---
+uid: shard2509071445382030
+title: Putting 'oggi' in front of a sentence is more common in Italian than putting it at the end
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-07T14:45:38+08:00
+dateModified: 2025-09-07T14:47:49+08:00
+---
+Putting [['Today' in Italian is 'oggi'|'oggi']] in front of a sentence is more common in Italian than putting it at the end
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^obztq]]

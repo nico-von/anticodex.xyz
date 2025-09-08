@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-08-26T22:58:16+08:00
-dateModified: 2025-09-03T15:27:55+08:00
+dateModified: 2025-09-06T17:27:59+08:00
 ---
 What directly receives the action of a verb is called a Direct Object
 

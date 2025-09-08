@@ -1,0 +1,13 @@
+---
+uid: shard2509051520435810
+title: "The 'v' to 'b' conversion can happen in English too, like 'labour'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-05T15:20:43+08:00
+dateModified: 2025-09-06T17:30:46+08:00
+---
+As [[The English word 'Labour' and the Italian word 'Lavorare' came from the same root]], it should be 'lavour', but 'labour' is used instead, so in English the [[The 'v' letter often crossovers with the 'b' sound or letter and vice versa|'v' to 'b' crossover]] is present too.
+
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^xmkyu]] 
