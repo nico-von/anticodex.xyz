@@ -5,9 +5,9 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-08-27T23:27:34+08:00
-dateModified: 2025-09-08T14:46:55+08:00
+dateModified: 2025-09-09T21:40:26+08:00
 ---
-If a verb is in its [[The 'to {verb}' verb form in Italian is indicated by '-are' or '-ere' at the Italian verb's ending|Italian 'to {verb}']], pronouns(like [['you' or  'ti', as a direct object, can come before verbs that point to it in Italian|'ti']] and [['It' in Italian is 'lo'|'lo']]) can be([[Placing a direct object pronoun to the end of a verb in its Italian 'to {verb}' form is optional if another verb and the Italian 'to {verb}' form exists together|optionally]]) attached to the end of it. This is true for [[What directly receives the action of a verb is called a 'direct object'|'direct object' pronouns or pronouns that receives the action of a verb]].
+If a verb is in its [[The 'to {verb}' verb form in Italian is indicated by '-are' or '-ere' at the Italian verb's ending|Italian 'to {verb}']], pronouns(like [['you' or  'ti', as a direct object, can come before verbs that point to it in Italian|'ti']] and [['It' in Italian is 'lo'|'lo']]) can be([[Placing a direct object pronoun to the end of a verb in its Italian 'to {verb}' form is optional if another verb and the Italian 'to {verb}' form exists together|optionally]]) attached to the end of it. This is true for [[What directly receives the action of a verb is called a 'direct object'|'direct object' pronouns or pronouns that receives the action of a verb]], refer to [[A list of Italian direct object pronouns|this for a list of such pronouns]]
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^ql4df]]
 

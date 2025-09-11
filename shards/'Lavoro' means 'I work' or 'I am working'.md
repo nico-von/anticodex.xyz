@@ -11,4 +11,4 @@ dateModified: 2025-09-07T16:00:14+08:00
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^3un2s]]
 
-It is from the [[To transform an '-are' verb form, to something where the speaker describes that he is doing the verb, the '-are' must first be removed, and then replaced with 'o' that indicates 'I'|transformation]] of [['lavorare' is 'to work' in Italian|'lavorare' which means 'to work']] to the 'I {verb}' form, [[The 'o' in 'devo' indicates that it refers to the speaker|indicated by the 'o' like 'devo']]
+It is from the [[To transform an '-are' verb form to something where the speaker describes that he is doing the verb, the '-are' must first be removed, and then replaced with 'o' that indicates 'I'|transformation]] of [['lavorare' is 'to work' in Italian|'lavorare' which means 'to work']] to the 'I {verb}' form, [[The 'o' in 'devo' indicates that it refers to the speaker|indicated by the 'o' like 'devo']]

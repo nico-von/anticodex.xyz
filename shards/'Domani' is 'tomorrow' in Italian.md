@@ -1,0 +1,12 @@
+---
+uid: shard2509101653442430
+title: "'Domani' is 'tomorrow' in Italian"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-10T16:53:44+08:00
+dateModified: 2025-09-11T11:37:53+08:00
+---
+'Domani' is 'tomorrow' in Italian
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^1114d]]

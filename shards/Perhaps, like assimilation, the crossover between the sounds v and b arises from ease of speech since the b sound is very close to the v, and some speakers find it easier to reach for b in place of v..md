@@ -6,6 +6,6 @@ categories:
   - unsourced
   - speculative
 dateCreated: 2025-09-05T14:58:02+08:00
-dateModified: 2025-09-05T15:10:07+08:00
+dateModified: 2025-09-10T15:31:32+08:00
 ---
 Perhaps, like [[In an Italian word which literal meaning is prefixed with 'with', the 'n' in 'con' can adapt or assimilate to the consonant following it, like 'col-' in 'collaborare'|the assimilation of 'n' of 'con' to 'l' in 'collaborare']], the [[The 'v' letter often crossovers with the 'b' sound or letter and vice versa|crossover between the sounds v and b ]] arises from [[Assimilation in phonetics make words easier to pronounce, more fluid|ease of speech]]; since the b sound is very close to the v, and perhaps the reason for something like [[in Spanish, the 'v' letter often becomes a 'b' sound|how the 'v' letter often becomes a 'b' sound in Spanish]] is that speakers of the language finds it easiet to reach for b in place of v.

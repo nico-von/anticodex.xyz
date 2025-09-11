@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-01T15:17:27+08:00
-dateModified: 2025-09-03T15:26:50+08:00
+dateModified: 2025-09-10T13:40:16+08:00
 ---
 'devo' is the Italian word for 'I have to', 'I must', 'I owe'.
 
@@ -13,3 +13,7 @@ dateModified: 2025-09-03T15:26:50+08:00
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^wbv4j]]
 
 'Devo' is related to the word [['Debt' is 'obligation' because it is related to the Italian word 'devo' that means 'I must', 'I have to'|'debt']].
+
+It ends with [[The 'o' in 'devo' indicates that it refers to the speaker|'o', indicating that it refers to the speaker.]]
+
+If you want to say 'You want', you use [['devi' is the Italian for 'YOU must'|'devi']] instead. 

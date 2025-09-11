@@ -5,9 +5,11 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-08T14:55:45+08:00
-dateModified: 2025-09-08T14:59:49+08:00
+dateModified: 2025-09-10T16:22:38+08:00
 ---
-Like [[To transform an '-are' verb form, to something where the speaker describes that he is doing the verb, the '-are' must first be removed, and then replaced with 'o' that indicates 'I'|'-are']], the speaker can indicate that he is doing the action of the [[Like '-are', '-ere' indicates the 'to {verb}' form of verb too.|'-ere']] verb form by replacing '-ere' with [[The 'o' in 'devo' indicates that it refers to the speaker|'o' (indicating I)]].
+Like [[To transform an '-are' verb form to something where the speaker describes that he is doing the verb, the '-are' must first be removed, and then replaced with 'o' that indicates 'I'|'-are']], the speaker can indicate that he is doing the action of the [[Like '-are', '-ere' indicates the 'to {verb}' form of verb too.|'-ere']] verb form by replacing '-ere' with [[The 'o' in 'devo' indicates that it refers to the speaker|'o' (indicating I)]].
 
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^bzx80]]
+
+However, [[Not every Italian 'to {verb}' form ending can be altered by a single letter alone to mark the subject who does the action.]]

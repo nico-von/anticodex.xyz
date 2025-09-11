@@ -5,7 +5,7 @@ type: shard
 categories:
   - unsourced
 dateCreated: 2025-08-26T22:49:14+08:00
-dateModified: 2025-09-07T15:55:07+08:00
+dateModified: 2025-09-09T17:34:56+08:00
 ---
 From various cases like:
 1. [[Unlike 'English', 'it', as a direct object, usually comes before verbs that point to it in Italian, instead of saying 'I want it', in Italian, it becomes 'It, I want']]

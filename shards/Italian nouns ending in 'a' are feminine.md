@@ -1,0 +1,14 @@
+---
+uid: shard2509101323396210
+title: "Italian nouns ending in 'a' are feminine"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-10T13:23:39+08:00
+dateModified: 2025-09-10T13:31:52+08:00
+---
+Italian [[A property of a noun is that 'the' and 'a' can be put in front of it|nouns]] ending in 'a' are feminine
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^37098]]
+
+Since they are feminine, they must use [['La' is Italian for 'the'|'la' for the word 'the']]
