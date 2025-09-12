@@ -22,7 +22,7 @@ The Italan 'to {verb}' form can be transformed in several ways:
 
 ## Examples
 ### '-are'
-1. [['piegare' means to fold in Italian]]
+1. [['Piegare' means to fold in Italian]]
 2. [['fare' is the Italian word for 'to do' or 'to make']]
 3. [['Firmare' is the Italian word for 'to sign']]
 4. [[The 'fermare' in the Italian word 'confermare' means 'to stop']]
