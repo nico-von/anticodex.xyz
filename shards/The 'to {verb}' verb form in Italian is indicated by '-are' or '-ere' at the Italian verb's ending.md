@@ -3,14 +3,13 @@ uid: shard2509071518092610
 title: "The 'to {verb}' verb form in Italian is indicated by '-are' or '-ere' at the Italian verb's ending"
 type: shard
 categories:
-  - unsourced
   - structure
 dateCreated: 2025-09-07T15:18:09+08:00
-dateModified: 2025-09-10T16:08:20+08:00
+dateModified: 2025-09-11T14:58:48+08:00
 ---
-The 'to {verb}' verb form in Italian is indicated by [[Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are'|'-are']] or [[Like '-are', '-ere' indicates the 'to {verb}' form of verb too.|'-ere']] at the Italian verb's ending
+The 'to {verb}' verb form in Italian is indicated by [[Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are'|'-are']] or [[Like '-are', '-ere' indicates the 'to {verb}' form of verb too.|'-ere']] or [[Perhaps '-ire' is another 'to {verb}' form ending|'-ire']] at the Italian verb's ending
 
-## '-are'
+## On finding '-are' ending verbs from English
 There is an easy way to 'find' '-are' verbs from English words: [[Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to' verb form simply by replacing their '-ation' suffix with '-are']].
 
 ## Transformations
@@ -20,3 +19,18 @@ The Italan 'to {verb}' form can be transformed in several ways:
 2. Pronouns that indicate the performance of the action of the '-are' verb are transformed differently:
 	1. The speaker does the action: [[Italian 'to {verb}' forms can be changed to an ending in '-o' to show that the speaker is the one doing the action]] 
 	2. The person the speaker is talking to does the action: [[Some Italian verbs in their 'to {verb}' form can be transformed to indicate that the doer is the person the speaker is talking to by replacing the'to {verb}' form ending with '-i']]
+
+## Examples
+### '-are'
+1. [['piegare' means to fold in Italian]]
+2. [['fare' is the Italian word for 'to do' or 'to make']]
+3. [['Firmare' is the Italian word for 'to sign']]
+4. [[The 'fermare' in the Italian word 'confermare' means 'to stop']]
+5. [['lavorare' is 'to work' in Italian]]
+6. [['Provare' is the verb for 'to try' in Italian]]
+7. [['Confermare' is the Italian word for 'to confirm']]
+8. [['Dimostrare' is the Italian of 'to demonstrate']]
+9. [['Organizzare' is the Italian for 'organise']]
+10. [['To show' is 'mostrare' in Italian]]
+### '-ire'
+1. [['Avvertire' is the Italian word for 'to warn']]
