@@ -1,0 +1,15 @@
+---
+uid: shard2509111426534930
+title: "'Tardi' is the Italian word for 'late'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-11T14:26:53+08:00
+dateModified: 2025-09-11T14:30:23+08:00
+---
+'Tardi' is the Italian word for 'late'
+
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^5ugqo]]
+
+[['Tardi' is exactly the same with the English word 'tardy'|It is exactly the same with the English word 'tardy']]
