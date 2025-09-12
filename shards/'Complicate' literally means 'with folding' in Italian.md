@@ -12,6 +12,6 @@ dateModified: 2025-09-08T14:29:13+08:00
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^zaj0l]]
 
-[['piegare' means to fold in Italian|Folding in Italian is 'piegare']], Also, by observation, *Con piegare* kind of sounds like complicate 
+[['Piegare' means to fold in Italian|Folding in Italian is 'piegare']], Also, by observation, *Con piegare* kind of sounds like complicate 
 
 Furthermore, the opposite of the English word 'complicate', or 'complicated', is 'simple'. Interestingly, [[Simple-mindedness is 'einfalt', in German, which literally means 'One fold'|'simple-minded' is 'Einfalt' in German, which literally means 'one fold']], opposite of 'with folding'(assuming multiple folds). As if [['Fold' signifies layers of complexity]]
