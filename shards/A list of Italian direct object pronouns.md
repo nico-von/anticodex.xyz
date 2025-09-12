@@ -11,5 +11,5 @@ A list of [[What directly receives the action of a verb is called a 'direct obje
 1. [['Mi' is 'myself' in Italian]]
 2. [['you' in Italian is 'ti']]
 3. [['It' in Italian is 'lo'|'lo']] is the [[Because 'la' is the Italian feminine for 'it', 'lo', must be the Italian masculine for 'it'|masculine form for 'it']]
-4. [['la' is the feminine form of 'it' in Italian]]
+4. [['La' is the feminine form of 'it' in Italian]]
 5. [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them']]
