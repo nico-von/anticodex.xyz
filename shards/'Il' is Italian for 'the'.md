@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-01T12:28:17+08:00
-dateModified: 2025-09-03T15:14:05+08:00
+dateModified: 2025-09-11T14:20:43+08:00
 ---
 'Il' is Italian for 'the' as observed from the phrase 'il [['Mostro' is Italian for 'monster'|'mostro']]' that literally means 'the monster'
 
