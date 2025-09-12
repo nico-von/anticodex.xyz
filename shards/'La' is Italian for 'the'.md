@@ -14,4 +14,4 @@ dateModified: 2025-09-11T14:21:37+08:00
 
 Another word for 'the' in Italian is [['Il' is Italian for 'the'|'il']]
 
-Also, do not confuse it with [['la' is the feminine form of 'it' in Italian|'the Italian feminine form of 'it' that is also 'la']]
+Also, do not confuse it with [['La' is the feminine form of 'it' in Italian|'the Italian feminine form of 'it' that is also 'la']]
