@@ -12,7 +12,7 @@ dateModified: 2025-09-11T14:19:19+08:00
 ### Excerpts
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^vghu1]]
 
-[[Because 'la' is the Italian feminine for 'it', 'lo', must be the Italian masculine for 'it'|'lo' is the Italian masculine for 'it']] while [['la' is the feminine form of 'it' in Italian|'la' is feminine]]
+[[Because 'la' is the Italian feminine for 'it', 'lo', must be the Italian masculine for 'it'|'lo' is the Italian masculine for 'it']] while [['La' is the feminine form of 'it' in Italian|'la' is feminine]]
 
 [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them']]
 
