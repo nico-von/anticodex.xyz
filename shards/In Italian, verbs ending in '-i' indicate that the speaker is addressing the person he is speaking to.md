@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-10T15:21:11+08:00
-dateModified: 2025-09-10T15:53:22+08:00
+dateModified: 2025-09-11T14:08:01+08:00
 ---
 In Italian, verbs ending in [[Some Italian verbs that end in '-i' indicates 'you'|'-i']] indicate that the speaker is addressing the person he is speaking to
 #### Excerpt
