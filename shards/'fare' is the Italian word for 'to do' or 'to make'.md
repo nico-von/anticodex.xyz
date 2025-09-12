@@ -1,0 +1,12 @@
+---
+uid: shard2509111445380950
+title: "'fare' is the Italian word for 'to do' or 'to make'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-11T14:45:38+08:00
+dateModified: 2025-09-11T14:48:39+08:00
+---
+'fare' is the Italian word for 'to do' or 'to make'
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^cr0ab]]
