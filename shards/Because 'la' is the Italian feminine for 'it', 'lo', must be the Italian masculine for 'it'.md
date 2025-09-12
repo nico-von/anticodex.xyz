@@ -7,4 +7,4 @@ categories:
 dateCreated: 2025-09-11T14:15:11+08:00
 dateModified: 2025-09-11T14:17:57+08:00
 ---
-Because [['la' is the feminine form of 'it' in Italian]], [['It' in Italian is 'lo'|'lo']], must be the Italian masculine for 'it'
+Because [['La' is the feminine form of 'it' in Italian]], [['It' in Italian is 'lo'|'lo']], must be the Italian masculine for 'it'
