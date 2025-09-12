@@ -6,7 +6,7 @@ categories:
   - sourced
   - structure
 dateCreated: 2025-08-25T22:19:58+08:00
-dateModified: 2025-09-04T19:59:26+08:00
+dateModified: 2025-09-11T19:19:38+08:00
 ---
 Most English verbs with noun forms ending in '-ation' can be transformed to their corresponding Italian 'to *verb*' form simply by replacing their '-ation' suffix with '-are'
 
