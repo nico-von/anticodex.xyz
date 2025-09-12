@@ -5,6 +5,8 @@ The Anticodex is a stage upon which the public may behold and trace a portion of
 
 It is not the system itself, but a representation of its application.
 
+## Tracking Content Development
+Every change to a content file will have a commit of its own. This way, it will be easier to track the history and development of the file. It also frees me from the extra labour of adding content development notes into shards(except when necessary), as I can simply trace the development in the repository instead.
 ## Introducing Changes
 Since I welcome contributions from any source, you, the observer, may introduce changes that will benefit the system, and therefore, my mind.
 
