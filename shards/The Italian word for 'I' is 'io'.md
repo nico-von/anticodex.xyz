@@ -12,4 +12,4 @@ The Italian word for 'I' is 'io'
 ### Excerpt
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^u48tm]]
 
-[['Io' can be used for emphasis in sentences already containing 'o' in their verbs in front or at the end of the sentence. Its placement is flexible.]]
+[['Io' can be used for emphasis in sentences with verbs already end in 'o' (if it signifies that the speaker refers to himself). Its placement is flexible.]]
