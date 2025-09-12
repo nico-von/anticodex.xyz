@@ -5,9 +5,9 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-02T11:51:24+08:00
-dateModified: 2025-09-12T12:14:25+08:00
+dateModified: 2025-09-12T12:16:58+08:00
 ---
-'Io' can be used for emphasis in sentences with verbs already end in [[The 'o' in 'devo' indicates that it refers to the speaker|'o' (if it signifies that the speaker refers to himself)]]. Its placement is flexible.
+'Io' can be used for emphasis in sentences with verbs already end in [[The English pronoun 'I' is signified in a verb like 'Voglio' by the 'o' at its end|'o' (if it signifies that the speaker refers to himself)]]. Its placement is flexible.
 
 See the following:
 1. [['Io' can be used for emphasis by placing it in front of a sentence with 'o' already at the end of verbs signifying that the speaker is referring to himself]]
