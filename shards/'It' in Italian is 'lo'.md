@@ -5,12 +5,14 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-08-25T22:03:01+08:00
-dateModified: 2025-09-03T15:11:15+08:00
+dateModified: 2025-09-11T14:19:19+08:00
 ---
 'It' in Italian is 'lo'
 
 ### Excerpts
 ![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^vghu1]]
+
+[[Because 'la' is the Italian feminine for 'it', 'lo', must be the Italian masculine for 'it'|'lo' is the Italian masculine for 'it']] while [['la' is the feminine form of 'it' in Italian|'la' is feminine]]
 
 [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them']]
 
