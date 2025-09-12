@@ -6,6 +6,6 @@ categories:
   - unsourced
   - confirmed
 dateCreated: 2025-09-10T13:40:59+08:00
-dateModified: 2025-09-10T16:52:39+08:00
+dateModified: 2025-09-11T19:19:15+08:00
 ---
 Some Italian verbs that end in '-i' indicates 'you', like [['devi' is the Italian for 'YOU must'|'devi']]: [[In Italian, verbs ending in '-i' indicate that the speaker is addressing the person he is speaking to]].
