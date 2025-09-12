@@ -5,10 +5,11 @@ type: shard
 categories:
   - structure
 dateCreated: 2025-09-09T17:35:19+08:00
-dateModified: 2025-09-10T16:56:48+08:00
+dateModified: 2025-09-11T14:23:31+08:00
 ---
 A list of [[What directly receives the action of a verb is called a 'direct object'|'direct object']] Italian pronouns:
 1. [['Mi' is 'myself' in Italian]]
 2. [['you' in Italian is 'ti']]
-3. [['It' in Italian is 'lo']]
-4. [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them']]
+3. [['It' in Italian is 'lo'|'lo']] is the [[Because 'la' is the Italian feminine for 'it', 'lo', must be the Italian masculine for 'it'|masculine form for 'it']]
+4. [['la' is the feminine form of 'it' in Italian]]
+5. [[The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them']]
