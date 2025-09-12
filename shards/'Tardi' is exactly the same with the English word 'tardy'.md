@@ -1,0 +1,13 @@
+---
+uid: shard2509111428385840
+title: "'Tardi' is exactly the same with the English word 'tardy'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-11T14:28:38+08:00
+dateModified: 2025-09-11T14:31:28+08:00
+---
+[['Tardi' is the Italian word for 'late'|'Tardi']] is exactly the same with the English word 'tardy'
+
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^63tni]] 
