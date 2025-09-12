@@ -1,0 +1,12 @@
+---
+uid: shard2509111436425560
+title: "'più tardi' is 'later' in Italian which is literally translated to 'more late'"
+type: shard
+categories:
+  - sourced
+dateCreated: 2025-09-11T14:36:42+08:00
+dateModified: 2025-09-11T14:42:22+08:00
+---
+'più tardi' is 'later' in Italian which is literally translated to 'more late': [['più' is the Italian word for 'more']], and [['Tardi' is the Italian word for 'late'|'tardi' is the Italian word for 'late']]
+### Excerpt
+![[eleftheriouIntroductionItalianignorecopyrightexcerptindex#^xcvx8]]
