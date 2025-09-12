@@ -5,7 +5,7 @@ type: shard
 categories:
   - sourced
 dateCreated: 2025-09-10T13:34:30+08:00
-dateModified: 2025-09-10T15:55:29+08:00
+dateModified: 2025-09-11T19:11:00+08:00
 ---
 'devi' is the Italian for 'YOU must'
 
