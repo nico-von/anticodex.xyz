@@ -1,11 +1,11 @@
 ---
 uid: shard2509021210336650
-title: The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them'
+title: "The plural of 'lo', or 'it', is 'li' in Italian. 'Li' means 'them'"
 type: shard
 categories:
   - sourced
 dateCreated: 2025-09-02T12:10:33+08:00
-dateModified: 2025-09-02T15:19:03+08:00
+dateModified: 2025-09-11T14:17:34+08:00
 ---
 The plural of [['It' in Italian is 'lo'|'lo', or 'it']], is 'li' in Italian. 'Li' means 'them'.
 
