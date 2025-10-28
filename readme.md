@@ -10,7 +10,7 @@ It is, quite simply, what you might call a ‘Digital Garden’.
 ## Tracking Content Development
 Every change to a content file will have a commit of its own. This way, it will be easier to track the history and development of the file. It also frees me from the extra labour of adding content development notes into shards(except when necessary), as I can simply trace the development in the repository instead.
 
-A commit message is now automatically generated to indicate whether revisions made to a content file are frontmatter-changes only, content-changes only, or both, and to highlight changes in titles and categories, rather than relying on plain, file-name-only automated commit messages.
+A commit message is now automatically generated to indicate whether revisions made to a content file are frontmatter-changes only or if changes are made to the content too. The generated commit messages also highlight changes that are made to titles, categories and the dateModified field.
 
 ## Introducing Changes
 Since I welcome contributions from any source, you, the observer, may introduce changes that will benefit the system, and therefore, my mind.
