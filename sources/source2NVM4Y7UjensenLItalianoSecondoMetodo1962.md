@@ -3,9 +3,9 @@ uid: source2NVM4Y7UjensenLItalianoSecondoMetodo1962
 title: jensenLItalianoSecondoMetodo1962
 type: source
 tags: [italian-ll]
-categories: [book, progressing]
+categories: [book, text, progressing]
 dateCreated: 2025-11-12T02:22:05+00:00
-dateModified: 2025-11-12T03:13:33+00:00
+dateModified: 2025-11-12T03:22:45+00:00
 ---
 
 ## Bibliography
