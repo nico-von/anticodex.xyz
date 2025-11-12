@@ -2,9 +2,10 @@
 uid: sourceWBTYQQSMzinsserWritingLearn1989
 title: zinsserWritingLearn1989
 type: source
+tags: [learning, writing]
 categories: [book, awaiting]
 dateCreated: 2025-08-18T15:08:37+08:00
-dateModified: 2025-11-06T07:29:04+00:00
+dateModified: 2025-11-12T03:13:21+00:00
 ---
 
 ## Bibliography
