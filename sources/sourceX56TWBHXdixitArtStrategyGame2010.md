@@ -2,10 +2,10 @@
 uid: sourceX56TWBHXdixitArtStrategyGame2010
 title: dixitArtStrategyGame2010
 type: source
-categories: [book]
+categories: [book, text, progressing]
 tags: [game-theory]
 dateCreated: 2026-01-07T23:22:31+00:00
-dateModified: 2026-01-07T23:26:12+00:00
+dateModified: 2026-01-14T02:16:02+00:00
 ---
 
 ## Bibliography
